@@ -1,0 +1,52 @@
+# TOC
+Table of Contents
+
+Part 1: Data Preparation
+1.  An Introduction to Data Mining and Predictive Analytics
+2.  Data Preprocessing
+3.  Exploratory Data Analysis
+4.  Dimension Reductioni Methods
+
+Part 2: Statistical Analysis
+5.  Univariate Statistical Analysis
+6.  Multivariate Statistics
+7.  Preparing to Model the Data
+8.  Simple Linear Regression
+9.  Multiple Regression and Model Building
+
+Part 3: Classification
+10.  K-Nearest Neighbor Algorithm
+11.  Decision Trees
+12.  Neural Networks
+13.  Logistic Regression
+14.  Naive Bayes and Bayesian Networks
+15.  Model Evaluation Techniques
+16.  Cost-Benefit Analysis Using Data-Driven Costs
+17.  Cost-Benefit Analysis for Trinary and k-Nary Classification Models
+18.  Graphical Evaluation of Classification Models
+
+Part 4: Clustering
+19.  Hierarchical and K-Means Clustering
+20.  Kohonen Networks
+21.  BIRCH Clustering
+22.  Measuring Cluster Goodness
+
+Part 5: Association Rules
+23.  Association Rules: A Priori Algorithm and Generalized Rule Induction
+
+Part 6:  Enhancing Model Performance
+24.  Segmentation Models
+25.  Ensemble Methods: Bagging and Boosting
+26.  Model Voting and Propensity Averaging
+
+Part 7: Further Topics
+27.  Genetic Algorithms
+28.  Imputation of Missing Data
+
+Part 8: Case Study: Predicting Response to Direct-Mail Marketing
+29.  Case Study, Part 1: Business Understanding, Data Preparation, and EDA
+30.  Case Study, Part 2: Clustering and Principal Components Analysis
+31.  Case Study, Part 3: Modeling and Evaluation for Performance and Interpretability
+32.  Case Study, Part 4: Modeling and Evaluation for High Performance Only
+
+Appendix A: Data Summarization and Visualization
