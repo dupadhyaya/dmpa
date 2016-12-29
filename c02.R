@@ -84,6 +84,86 @@ par(mfrow=c(1,2))
 hist(cars$weight, breaks=20, xlim=c(1000,5000),main='Histogram of Wt', xlab='Weight', ylab='Count')
 box(which='plot',lty='solid', col='black') # box around the plot box()
 
-#
+# 2nd plot
 hist(z.weight, breaks=20, xlim=c(-2,3),main='Histogram of Z score of Wt', xlab='Z score of Weight', ylab='Count')
 box(which='plot',lty='solid', col='red') # box around the plot box()
+
+# Skewness = 3 (Mean - Median) / sd
+(3*(mean(cars$weightlbs) - median(cars$weightlbs)))/ (sd(cars$weightlbs))  # 0.6
+(3*(mean(z.weight) - median(z.weight)))/ (sd(z.weight))  # 0.6
+
+# Transformation for Normality
+sqrt.weight = sqrt(cars$weight) # square root
+sqrt.weight_skew = (3*(mean(sqrt.weight) - median(sqrt.weight)))/ (sd(sqrt.weight))  # 0.403 less
+sqrt.weight_skew
+
+ln.weight = log(cars$weight) # natural log
+ln.weight_skew= (3*(mean(ln.weight) - median(ln.weight)))/ (sd(ln.weight))  # 0.196 lesser
+ln.weight_skew
+
+invsqrt.weight = 1/sqrt(cars$weight) # Inverse Square Root
+invsqrt.weight_skew= (3*(mean(invsqrt.weight) - median(invsqrt.weight)))/ (sd(invsqrt.weight))  
+invsqrt.weight_skew # 0.0154 lesser
+
+# Histogram with Normal Distribution Overlay
+par(mfrow=c(1,1))
+x = rnorm(1000000,mean=mean(invsqrt.weight), sd = sd(invsqrt.weight))
+plot(density(x))
+plot.new()
+hist(invsqrt.weight)
+range(x)
+hist(invsqrt.weight,breaks=30,xlim=c(0.0125,0.0275), col='lightblue',prob=T,
+     border='black',xlab='Inverse Sq Root of Wt', ylab='Counts',main='Histogram of Inv Sq Root of Wt')
+box(which='plot',lty=5,col='green')
+# Overlay with Normal Density
+lines(density(x),col='red')
+
+# Normal QQ Plot
+qqnorm(invsqrt.weight, datax=T, col='red', ylim=c(0.01, 0.03), main ='Normal QQ Plot of Inv Sq root of Wt')
+qqline(invsqrt.weight,col='blue',datax=T)
+
+# De-Transform data
+# Transform x using y = 1/sqrt(x)
+x = cars$weightlbs[1] ; x
+y= 1/sqrt(x) ; y
+# Detransform x using x = 1/y^2
+detransformedx = 1/y^2
+x;y; detransformedx
+
+# Create Indicator Variables
+north_flag = east_flag = south_flag = c(rep(NA,10))
+north_flag ; east_flag ; south_flag
+region = c(rep(c('north','south','east','west'),2),'north','south')
+region
+# Change region variable to indicators
+for (i in 1:length(region)) {
+  if(region[i]=='north') north_flag[i] = 1
+    else north_flag[i] = 0
+  if(region[i]=='east') east_flag[i] = 1
+    else east_flag[i] = 0
+  if(region[i]=='south') south_flag[i] = 1
+    else south_flag[i] = 0
+}
+north_flag ; east_flag ; south_flag 
+
+# Index Fields
+# Data  Frames have an index field 
+cars
+cars[order(cars$mpg),] # order by first column
+# Vectors or matrices : add a coln to act as an index field
+x = c(1,1,3:1,1:4,3) ; y = c(9,9:1) ; z = c(2,1:9)
+x;y;z
+matrix= (t(rbind(x,y,z))) ; matrix
+indexed_m = cbind(c(1:length(x)), matrix) ; indexed_m
+indexed_m[order(z)]
+
+# Duplicate records
+anyDuplicated(cars) # all at once
+duplicated(cars) # one by one T/F for each row
+new.cars = rbind(cars,cars[1,]) # make sample duplicate
+anyDuplicated(new.cars) # all at once 262 record is duplicated
+duplicated(new.cars) # 1 by 1
+new.cars2 = rbind(new.cars,cars[1,],cars[2,],cars[3,]) # make sample duplicate
+anyDuplicated(new.cars2,fromLast =F) # all at once 262 record is duplicated
+duplicated(new.cars2) # 1 by 1
+
