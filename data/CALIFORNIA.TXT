@@ -1,0 +1,849 @@
+place, population, pct_under_18, pct_between_18_64, pct_over 64, male_female_ratio
+Los Angeles city                       3485398  24.8  65.3  10.0   99.6
+San Diego city                         1110549  23.1  66.7  10.2  103.7
+San Jose city                           782248  26.7  66.1   7.2  102.8
+San Francisco city                      723959  16.1  69.3  14.6   99.4
+Long Beach city                         429433  25.5  63.7  10.8  101.0
+Oakland city                            372242  24.9  63.1  12.0   89.2
+Sacramento city                         369365  26.2  61.7  12.1   90.4
+Fresno city                             354202  31.7  58.2  10.1   89.8
+Santa Ana city                          293742  30.5  63.9   5.6  116.8
+Anaheim city                            266406  25.9  65.7   8.4  101.5
+Riverside city                          226505  29.0  62.1   8.9   95.7
+Stockton city                           210943  31.8  57.8  10.5   94.9
+Huntington Beach city                   181519  21.0  70.7   8.3  101.3
+Glendale city                           180038  21.7  65.0  13.3   89.5
+Bakersfield city                        174820  30.8  60.0   9.2   90.6
+Fremont city                            173339  25.8  67.6   6.7   98.7
+Modesto city                            164730  30.2  59.4  10.5   90.1
+San Bernardino city                     164164  31.6  58.4  10.0   94.5
+Garden Grove city                       143050  26.3  65.0   8.7  101.6
+Oxnard city                             142216  30.7  61.6   7.7  105.0
+Chula Vista city                        135163  26.1  62.3  11.7   93.2
+Ontario city                            133179  32.9  60.7   6.4  100.3
+Torrance city                           133107  20.4  67.6  11.9   94.6
+Pomona city                             131723  32.8  60.2   7.0  105.1
+Pasadena city                           131591  22.0  64.8  13.2   92.6
+Oceanside city                          128398  26.2  59.8  14.0   96.3
+East Los Angeles CDP                    126379  33.4  59.0   7.6   98.6
+Moreno Valley city                      118779  36.9  59.1   4.0   96.9
+Sunnyvale city                          117229  19.2  70.4  10.4  101.9
+Fullerton city                          114144  22.6  67.2  10.2   99.5
+Santa Rosa city                         113313  23.8  59.9  16.3   87.3
+Hayward city                            111498  24.8  64.5  10.7   94.4
+Concord city                            111348  24.6  65.9   9.5   94.3
+Orange city                             110658  24.4  66.9   8.7   99.2
+Santa Clarita city                      110642  28.0  65.8   6.3   98.2
+Irvine city                             110330  24.4  69.9   5.8   90.6
+Inglewood city                          109602  30.1  63.1   6.8   90.5
+Vallejo city                            109199  28.0  61.2  10.9   96.5
+Salinas city                            108777  32.1  59.6   8.3   97.7
+Escondido city                          108635  26.5  60.5  13.0   94.3
+Citrus Heights CDP                      107439  26.7  63.7   9.6   91.4
+El Monte city                           106209  34.0  59.5   6.4  106.3
+Thousand Oaks city                      104352  24.7  66.3   9.0   96.3
+Berkeley city                           102724  14.3  74.8  11.0   97.7
+Rancho Cucamonga city                   101409  31.6  63.3   5.1   96.1
+Simi Valley city                        100217  28.2  66.5   5.3   99.5
+Lancaster city                           97291  29.9  62.2   7.9   97.2
+Costa Mesa city                          96357  19.5  72.3   8.2  104.1
+West Covina city                         96086  27.6  63.7   8.7   93.1
+Norwalk city                             94279  29.8  61.6   8.6   98.9
+Burbank city                             93643  20.0  65.5  14.5   91.8
+Santa Clara city                         93613  18.8  71.2  10.0  102.2
+San Buenaventura (Ventura) city          92575  23.5  64.0  12.5   95.6
+Daly City city                           92311  24.0  65.5  10.5   91.7
+Arden-Arcade CDP                         92040  19.7  64.3  16.0   86.0
+Downey city                              91444  24.4  62.2  13.4   92.8
+Compton city                             90454  36.7  57.6   5.7   91.9
+El Cajon city                            88693  26.4  62.7  10.9   92.1
+Fontana city                             87535  36.1  58.4   5.5   95.0
+Richmond city                            87425  26.4  62.2  11.3   86.8
+Santa Monica city                        86905  13.8  69.7  16.5   86.8
+South Gate city                          86284  34.5  58.2   7.3   97.2
+Santa Barbara city                       85571  18.3  65.5  16.2   94.3
+San Mateo city                           85486  18.8  64.9  16.3   91.8
+Carson city                              83995  27.3  64.6   8.0   93.0
+Alhambra city                            82106  22.8  64.3  13.0   87.0
+Westminster city                         78118  25.2  65.4   9.4  101.4
+Whittier city                            77671  25.7  60.4  13.9   91.3
+Fairfield city                           77211  30.2  63.4   6.4  100.0
+Alameda city                             76459  19.8  68.4  11.8  113.5
+Corona city                              76095  31.2  63.0   5.8  102.3
+Visalia city                             75636  31.1  57.8  11.1   88.1
+Lakewood city                            73557  24.7  63.3  12.1   94.5
+Mission Viejo city                       72820  27.7  64.4   7.9   95.7
+Rialto city                              72388  35.6  57.8   6.6   91.7
+Vista city                               71872  26.9  60.9  12.2   97.8
+Vacaville city                           71479  26.7  66.5   6.8  129.5
+Hawthorne city                           71349  25.3  67.4   7.3   96.2
+Baldwin Park city                        69330  35.2  59.3   5.6   99.4
+Palmdale city                            68842  35.3  60.0   4.8   99.5
+Buena Park city                          68784  26.6  65.4   8.0   98.2
+San Leandro city                         68223  19.0  61.7  19.3   87.9
+Mountain View city                       67460  17.7  72.5   9.8  103.5
+Newport Beach city                       66643  13.3  71.2  15.5   96.6
+Redding city                             66462  26.9  58.7  14.5   88.1
+Redwood City city                        66072  22.0  66.4  11.5  100.0
+Upland city                              63374  26.7  64.1   9.2   92.0
+Carlsbad city                            63126  21.6  65.3  13.1  100.4
+El Toro CDP                              62685  26.3  66.8   6.9   95.1
+Antioch city                             62195  30.8  61.5   7.6   94.2
+Lynwood city                             61945  37.5  57.3   5.1  100.6
+Napa city                                61842  24.6  60.5  14.9   91.1
+Bellflower city                          61815  26.0  63.1  10.8   93.5
+Santa Maria city                         61284  29.9  58.1  12.0   96.2
+Monterey Park city                       60738  22.5  63.7  13.8   91.6
+Walnut Creek city                        60569  16.4  60.8  22.8   82.2
+Redlands city                            60394  27.0  61.1  11.9   87.8
+Redondo Beach city                       60167  16.2  76.6   7.2  104.8
+Chino city                               59682  28.2  66.7   5.0  144.3
+Montebello city                          59564  27.1  60.9  11.9   90.2
+Pico Rivera city                         59177  30.1  60.3   9.6   96.4
+Florence-Graham CDP                      57147  39.2  55.3   5.5  101.1
+Livermore city                           56741  27.2  65.7   7.1   98.5
+Merced city                              56216  34.6  56.4   9.0   93.7
+Huntington Park city                     56065  34.5  60.0   5.6  103.8
+Palo Alto city                           55900  17.7  66.9  15.5   94.8
+Encinitas city                           55386  22.7  68.2   9.1  105.5
+Spring Valley CDP                        55331  29.9  61.7   8.4   94.2
+South San Francisco city                 54312  24.1  64.5  11.4   93.4
+National City city                       54249  27.9  62.7   9.4  117.7
+Union City city                          53762  29.6  63.2   7.1   96.1
+Fountain Valley city                     53691  23.7  69.1   7.3   97.1
+Diamond Bar city                         53672  28.6  67.2   4.2   97.0
+Cerritos city                            53240  27.7  66.5   5.7   93.9
+La Mesa city                             52931  17.5  64.2  18.3   86.4
+Santee city                              52902  28.8  62.9   8.3   94.8
+Yorba Linda city                         52422  29.8  65.2   5.0   96.3
+Hacienda Heights CDP                     52354  26.4  65.9   7.7   96.4
+Camarillo city                           52303  24.4  58.9  16.7   94.9
+Lodi city                                51874  25.2  59.1  15.7   94.3
+Rosemead city                            51638  30.4  60.7   9.0   96.0
+La Habra city                            51266  25.2  64.1  10.7   96.5
+Tustin city                              50689  23.9  68.5   7.5  100.0
+Milpitas city                            50686  26.6  68.6   4.9  114.6
+Pleasanton city                          50553  25.8  68.8   5.4   96.2
+Hesperia city                            50418  33.1  55.6  11.3   95.4
+Clovis city                              50323  30.7  61.4   7.9   88.5
+Gardena city                             49847  23.1  66.0  10.9   95.8
+South Whittier CDP                       49514  31.2  61.1   7.8  100.1
+Santa Cruz city                          49040  18.3  71.6  10.1   96.6
+Rancho Cordova CDP                       48731  27.6  64.4   8.0   91.3
+Carmichael CDP                           48702  23.2  63.1  13.7   84.7
+Castro Valley CDP                        48619  22.4  62.5  15.0   90.4
+San Rafael city                          48404  17.4  68.7  13.9   95.1
+Arcadia city                             48290  21.6  62.3  16.1   85.8
+Glendora city                            47828  26.4  63.0  10.6   92.1
+Paramount city                           47669  35.0  58.7   6.2   98.4
+Novato city                              47585  24.9  65.3   9.8   90.6
+Pittsburg city                           47564  31.1  61.1   7.7   96.0
+Laguna Hills CDP                         46731  16.0  44.4  39.6   70.8
+Davis city                               46209  16.6  77.2   6.2   93.0
+Apple Valley town                        46079  31.8  58.3   9.9   93.8
+Roseville city                           44685  27.3  61.5  11.3   90.2
+Laguna Niguel city                       44400  23.9  69.2   6.9   95.9
+Poway city                               43516  30.0  63.1   7.0   97.4
+Covina city                              43207  25.3  63.9  10.8   89.2
+Petaluma city                            43184  25.8  62.6  11.6   91.1
+Altadena CDP                             42658  25.6  62.5  11.9   88.6
+Cypress city                             42655  25.1  67.4   7.5   93.7
+Rowland Heights CDP                      42647  28.8  64.4   6.8   95.1
+Bell Gardens city                        42355  40.2  55.6   4.2  105.5
+Turlock city                             42198  29.3  58.2  12.5   88.7
+North Highlands CDP                      42105  28.5  62.8   8.7   92.4
+San Luis Obispo city                     41958  13.8  74.0  12.2  104.8
+Rancho Palos Verdes city                 41659  21.3  66.7  12.0   94.2
+Azusa city                               41333  28.8  64.3   6.9   99.8
+Placentia city                           41259  25.7  67.1   7.2   98.8
+San Clemente city                        41100  21.2  65.8  13.0  101.9
+Manteca city                             40773  32.4  59.5   8.2   97.3
+Victorville city                         40674  31.0  57.4  11.6   93.9
+La Mirada city                           40452  24.1  64.5  11.4   93.7
+Cupertino city                           40263  21.8  69.3   8.8   98.6
+Colton city                              40213  32.4  60.9   6.6   95.7
+Palm Springs city                        40181  16.4  57.8  25.8   94.8
+Chico city                               40079  18.6  72.4   9.0   99.8
+Woodland city                            39802  29.2  59.5  11.2   91.5
+Lakeside CDP                             39412  27.5  62.5  10.0   95.4
+San Marcos city                          38974  27.1  58.2  14.7   98.7
+San Bruno city                           38961  21.7  67.8  10.5  102.2
+Seaside city                             38901  26.9  67.7   5.4  145.1
+Culver City city                         38793  18.7  68.0  13.3   88.1
+Newark city                              37861  28.2  66.5   5.3  100.8
+Pacifica city                            37670  24.7  67.9   7.4   95.4
+Lompoc city                              37649  29.0  62.6   8.5  112.9
+San Gabriel city                         37120  24.3  62.3  13.4   88.5
+La Puente city                           36955  32.5  61.5   6.0  101.7
+Indio city                               36793  33.9  58.0   8.1  101.8
+Rohnert Park city                        36326  26.9  65.6   7.5   91.0
+West Hollywood city                      36118   7.1  74.6  18.3  114.6
+Hemet city                               36094  16.8  41.1  42.1   78.4
+Campbell city                            36048  19.7  71.0   9.3   95.5
+Monrovia city                            35761  25.6  63.5  10.8   92.2
+San Ramon city                           35303  26.8  68.9   4.3   96.6
+Highland city                            34439  33.0  60.4   6.6   93.9
+Bell city                                34365  34.2  59.3   6.5  105.4
+Tracy city                               33558  31.3  60.6   8.1   98.8
+Tulare city                              33249  34.4  54.8  10.7   87.0
+Brea city                                32873  23.2  67.5   9.3   97.9
+Yucaipa city                             32824  24.3  51.6  24.0   84.9
+Willowbrook CDP                          32772  35.1  55.3   9.6   92.1
+Claremont city                           32503  21.6  66.0  12.4   90.2
+San Dimas city                           32397  26.2  64.5   9.4   93.5
+Manhattan Beach city                     32063  16.4  75.0   8.6  104.4
+Beverly Hills city                       31971  16.6  63.1  20.3   75.5
+Monterey city                            31954  18.2  68.9  12.9  103.0
+Parkway-South Sacramento CDP             31903  33.7  56.2  10.0   86.4
+Dana Point city                          31896  20.0  69.9  10.0  103.2
+Martinez city                            31808  22.9  68.1   9.0   96.1
+Pleasant Hill city                       31585  20.6  67.6  11.7   92.8
+Gilroy city                              31487  32.7  59.6   7.7   97.1
+El Centro city                           31384  35.8  56.2   8.0   90.8
+Danville city                            31306  26.0  65.6   8.4   94.1
+Temple City city                         31100  23.8  61.2  14.9   86.7
+Watsonville city                         31099  31.3  56.2  12.6   93.8
+Westmont CDP                             31044  35.8  59.3   4.8   79.9
+Hanford city                             30897  31.2  57.8  11.0   90.2
+La Verne city                            30897  26.2  61.0  12.8   89.4
+Casa de Oro-Mount Helix CDP              30727  24.8  64.6  10.6   97.1
+Stanton city                             30491  26.1  63.9  10.0   99.3
+Cathedral City city                      30085  26.8  59.3  13.9  102.5
+Folsom city                              29802  21.1  70.2   8.7  167.9
+Porterville city                         29563  32.8  54.5  12.8   86.6
+Madera city                              29281  33.9  54.6  11.6   91.2
+Walnut city                              29105  32.6  63.5   3.9   96.6
+West Sacramento city                     28898  27.9  59.0  13.1   98.4
+Montclair city                           28434  31.1  61.1   7.8   97.1
+Foster City city                         28176  20.5  72.5   7.0   95.8
+Saratoga city                            28061  20.8  65.7  13.6   93.6
+Menlo Park city                          28040  18.9  63.2  17.9   88.2
+Maywood city                             27850  36.6  58.9   4.5  109.2
+Ridgecrest city                          27725  29.7  63.4   6.9  103.9
+Chino Hills CDP                          27608  32.1  65.4   2.5   99.4
+Yuba City city                           27437  29.0  59.2  11.7   88.1
+Los Gatos town                           27357  18.7  68.6  12.7   89.7
+Lawndale city                            27331  27.1  67.2   5.7  104.6
+Temecula city                            27099  32.9  60.8   6.3  101.6
+Eureka city                              27025  24.9  60.2  14.9   91.1
+Fair Oaks CDP                            26867  24.2  65.7  10.1   94.5
+Burlingame city                          26801  16.4  64.9  18.8   84.9
+Oildale CDP                              26553  28.4  58.2  13.4   87.6
+Coronado city                            26540  12.0  75.0  13.0  209.0
+Imperial Beach city                      26512  29.3  64.5   6.1  105.0
+Marina city                              26436  29.2  66.5   4.3  114.6
+Ceres city                               26314  33.1  58.4   8.5   91.9
+Los Altos city                           26303  20.6  60.8  18.7   91.5
+Orangevale CDP                           26266  28.0  62.4   9.6   95.2
+San Juan Capistrano city                 26183  26.5  60.6  12.9   96.0
+San Carlos city                          26167  19.0  65.5  15.5   89.5
+Moorpark city                            25494  33.5  62.7   3.8  103.1
+Paradise town                            25408  20.7  48.7  30.6   84.0
+San Pablo city                           25158  30.3  59.0  10.7   89.5
+Seal Beach city                          25098  11.8  51.2  37.0   75.7
+Santa Paula city                         25062  29.9  57.8  12.3  102.4
+Benicia city                             24437  27.2  64.7   8.0   93.5
+Rubidoux CDP                             24367  33.7  59.2   7.0   98.7
+Tustin Foothills CDP                     24358  22.6  65.7  11.7   95.8
+Florin CDP                               24330  29.7  58.8  11.5   87.8
+West Whittier-Los Nietos CDP             24164  30.7  59.1  10.3   94.9
+Belmont city                             24127  17.7  70.9  11.4   94.4
+Lemon Grove city                         23984  26.6  59.6  13.8   89.8
+South Pasadena city                      23936  20.3  67.5  12.2   84.0
+Morgan Hill city                         23928  30.2  62.2   7.6   97.7
+Lafayette city                           23501  22.6  63.9  13.5   93.9
+East Palo Alto city                      23451  32.8  61.6   5.6  103.9
+Norco city                               23302  22.2  73.1   4.8  140.7
+Palm Desert city                         23252  17.1  59.6  23.2   94.3
+Dublin city                              23229  22.6  74.1   3.3  129.4
+Laguna Beach city                        23170  13.4  72.7  13.9  104.6
+Atascadero city                          23138  29.0  59.8  11.2   92.5
+El Cerrito city                          22869  16.1  62.7  21.2   86.2
+Rosemont CDP                             22851  28.9  65.7   5.5   91.7
+Cudahy city                              22817  38.2  57.8   4.0  102.0
+Delano city                              22762  34.4  55.1  10.5  100.1
+Lennox CDP                               22757  37.5  58.9   3.7  124.2
+Suisun City city                         22686  37.1  59.4   3.5   97.2
+San Fernando city                        22580  34.3  58.2   7.5  102.3
+Atwater city                             22282  35.6  57.7   6.7   94.2
+Fallbrook CDP                            22095  29.5  58.3  12.2   98.0
+South Lake Tahoe city                    21586  23.7  67.9   8.4  106.6
+Barstow city                             21472  30.9  60.1   9.0   98.5
+Perris city                              21460  34.2  56.2   9.6   94.5
+South El Monte city                      20850  34.0  60.5   5.5  110.1
+Duarte city                              20688  28.5  60.1  11.4   88.7
+Banning city                             20570  28.4  50.4  21.1   87.9
+Millbrae city                            20412  19.5  61.1  19.4   87.9
+Isla Vista CDP                           20395   6.3  91.5   2.2  109.0
+Agoura Hills city                        20390  31.2  65.0   3.8   94.2
+Port Hueneme city                        20319  27.5  62.6   9.9  111.9
+West Puente Valley CDP                   20254  32.4  62.1   5.5   99.7
+West Carson CDP                          20143  21.7  65.5  12.8   92.3
+San Lorenzo CDP                          19987  23.1  60.4  16.5   91.0
+Lomita city                              19382  23.4  65.4  11.2   89.8
+La Canada Flintridge city                19378  25.1  61.4  13.5   94.2
+Hollister city                           19212  32.9  58.2   8.9   99.9
+Rocklin city                             19033  28.4  62.4   9.2   93.9
+Brawley city                             18923  35.8  55.3   8.9   90.8
+Valinda CDP                              18735  33.3  60.6   6.1   99.5
+Calexico city                            18633  37.5  54.2   8.4   83.2
+El Paso de Robles (Paso Robles) city     18583  29.3  56.6  14.1   93.6
+Oakley CDP                               18374  33.1  61.1   5.8  100.6
+Lake Elsinore city                       18285  33.6  58.0   8.5  102.2
+Hermosa Beach city                       18219  10.4  83.8   5.8  122.0
+Stanford CDP                             18097   7.6  88.6   3.8  144.8
+South San Jose Hills CDP                 17814  34.9  60.0   5.1  101.5
+East Hemet CDP                           17611  30.0  54.3  15.6   89.5
+Elk Grove CDP                            17483  32.5  60.0   7.5   90.5
+Pinole city                              17460  25.1  65.1   9.8   91.6
+West Pittsburg CDP                       17453  31.2  61.0   7.8   97.7
+Loma Linda city                          17400  23.8  62.3  13.9   85.7
+Foothill Farms CDP                       17135  27.5  65.6   6.9   89.4
+La Crescenta-Montrose CDP                16968  23.5  65.3  11.3   92.3
+Coachella city                           16896  40.4  54.7   4.9  103.6
+Sanger city                              16839  34.2  55.4  10.4   93.8
+Hercules city                            16829  30.1  65.5   4.5   91.8
+Orinda city                              16642  22.2  61.6  16.3   93.7
+Ashland CDP                              16590  23.4  64.0  12.6   90.3
+Albany city                              16327  21.6  65.4  13.0   83.2
+San Jacinto city                         16210  28.4  49.9  21.7   89.6
+Pacific Grove city                       16117  17.6  63.3  19.0   81.8
+Moraga Town city                         15852  21.2  66.9  11.9   90.2
+Reedley city                             15791  31.5  56.8  11.8  106.4
+Mira Loma CDP                            15786  33.7  61.1   5.1  103.4
+Santa Fe Springs city                    15520  28.8  59.6  11.6   90.7
+Artesia city                             15464  28.0  60.8  11.2   97.6
+La Palma city                            15392  25.1  69.5   5.4   98.1
+El Segundo city                          15223  18.8  71.6   9.6   98.5
+Live Oak CDP                             15212  23.7  62.1  14.2   86.7
+Arcata city                              15197  17.7  72.8   9.5  101.1
+Bloomington CDP                          15116  33.8  58.1   8.1   98.2
+Sun City CDP                             14930  11.0  32.8  56.2   77.5
+East Foothills CDP                       14898  25.7  61.9  12.4   97.5
+Selma city                               14757  33.2  55.1  11.8   91.9
+Walnut Park CDP                          14722  32.6  61.0   6.4  100.4
+Ukiah city                               14599  27.7  57.0  15.2   85.3
+Los Banos city                           14519  31.9  55.4  12.7   92.9
+Arroyo Grande city                       14378  23.4  56.7  19.9   87.8
+Baywood-Los Osos CDP                     14377  23.4  59.4  17.2   92.5
+Avocado Heights CDP                      14232  30.7  62.2   7.1  101.4
+North Fair Oaks CDP                      13912  30.2  63.3   6.4  116.3
+Carpinteria city                         13747  23.8  63.7  12.5  101.0
+Vincent CDP                              13713  32.2  61.2   6.5   98.9
+Yucca Valley CDP                         13701  23.4  49.3  27.3   80.7
+Bostonia CDP                             13670  26.4  61.6  12.0   89.9
+Hawaiian Gardens city                    13639  35.5  59.5   5.0  108.6
+Lemoore city                             13622  32.9  60.6   6.5   94.5
+Palos Verdes Estates city                13512  21.1  64.6  14.4   94.3
+Windsor CDP                              13371  27.2  60.1  12.7   96.4
+Corcoran city                            13364  23.2  71.9   4.8  286.0
+Ramona CDP                               13040  32.5  59.7   7.7  100.1
+Mill Valley city                         13038  17.5  68.2  14.3   81.2
+Linda CDP                                13033  38.5  53.1   8.3   92.5
+Solana Beach city                        12962  16.8  69.0  14.2   99.5
+San Marino city                          12959  25.5  59.0  15.5   89.2
+Dinuba city                              12743  33.4  54.7  11.9  100.9
+East San Gabriel CDP                     12736  21.2  64.9  13.9   92.0
+Glen Avon CDP                            12663  28.7  56.9  14.4   94.1
+Bonita CDP                               12542  25.7  64.3  10.0   95.3
+Wasco city                               12412  38.3  53.8   7.9   97.5
+Red Bluff city                           12363  28.4  55.2  16.3   84.8
+Marysville city                          12324  26.9  59.1  14.0   92.1
+Alamo CDP                                12277  25.2  65.8   9.0   97.7
+Alondra Park CDP                         12215  26.2  64.3   9.6   99.7
+Commerce city                            12135  33.0  57.3   9.7   97.3
+Fillmore city                            11992  33.0  55.5  11.5  105.1
+Oakdale city                             11961  27.9  57.6  14.6   87.2
+Oroville city                            11960  30.5  52.1  17.4   85.1
+Cameron Park CDP                         11897  27.1  62.4  10.5   93.4
+Twentynine Palms city                    11821  30.4  60.4   9.3   98.6
+Clearlake city                           11804  24.1  51.0  24.9   87.9
+View Park-Windsor Hills CDP              11769  17.6  66.0  16.4   81.5
+San Anselmo town                         11743  19.4  67.8  12.9   86.2
+Los Alamitos city                        11676  23.7  65.9  10.4   90.9
+Desert Hot Springs city                  11668  29.2  56.2  14.5   91.3
+Grover City city                         11656  25.6  62.1  12.2   92.3
+Lamont CDP                               11517  36.9  55.8   7.4  104.0
+Rancho Santa Margarita CDP               11390  26.1  71.9   2.0  101.2
+La Quinta city                           11215  29.9  60.5   9.6   99.2
+Cherryland CDP                           11088  24.2  63.5  12.3   92.9
+Larkspur city                            11070  13.0  66.4  20.7   78.9
+La Riviera CDP                           10986  22.9  71.2   5.9   98.2
+Grand Terrace city                       10946  27.8  62.9   9.3   93.4
+Sierra Madre city                        10762  19.1  65.8  15.1   89.9
+McKinleyville CDP                        10749  28.1  62.4   9.5   96.4
+Hillsborough town                        10667  22.2  61.0  16.8   90.6
+Piedmont city                            10602  26.9  58.5  14.6   86.7
+Auburn city                              10592  21.7  58.1  20.2   83.3
+Wildomar CDP                             10411  27.1  57.1  15.8   93.5
+Dixon city                               10401  31.4  60.6   8.1   97.8
+North Auburn CDP                         10301  22.9  56.1  21.0   90.0
+Capitola city                            10171  18.0  65.8  16.2   89.1
+Rossmoor CDP                              9893  20.6  62.0  17.4   91.3
+El Sobrante CDP                           9852  23.2  64.3  12.5   94.4
+Laguna CDP                                9828  30.0  66.1   3.9   94.6
+Rancho Mirage city                        9778   9.8  52.2  37.9   91.1
+Avenal city                               9770  21.2  74.1   4.7  146.0
+Olivehurst CDP                            9738  34.8  55.2  10.0   93.0
+Alpine CDP                                9695  25.2  62.9  12.0   98.4
+Beaumont city                             9685  30.3  55.1  14.6   88.9
+Morro Bay city                            9664  15.2  58.9  25.9   89.9
+Quartz Hill CDP                           9626  31.1  60.9   7.9   97.6
+Tamalpais-Homestead Valley CDP            9601  17.8  74.1   8.2   93.0
+Citrus CDP                                9481  33.7  61.4   5.0   98.7
+Rio Linda CDP                             9481  30.5  61.3   8.1   96.8
+Healdsburg city                           9469  26.3  58.3  15.4   88.3
+East La Mirada CDP                        9367  24.5  65.6   9.9   94.7
+Country Club CDP                          9325  23.2  59.5  17.4   92.0
+Arvin city                                9286  36.9  55.6   7.5  106.1
+Soquel CDP                                9188  22.9  64.6  12.5   87.5
+Aptos CDP                                 9061  19.4  67.1  13.5   93.7
+Grass Valley city                         9048  23.1  53.4  23.4   71.2
+Fairview CDP                              9045  24.3  66.2   9.6   95.7
+Magalia CDP                               8987  17.3  47.1  35.6   90.2
+Rio del Mar CDP                           8919  18.7  65.8  15.4   94.6
+Galt city                                 8889  30.6  57.0  12.4   93.7
+Half Moon Bay city                        8886  24.2  66.5   9.3  102.4
+Pedley CDP                                8869  33.1  60.5   6.3   97.8
+West Athens CDP                           8859  31.6  63.1   5.3   93.5
+Charter Oak CDP                           8858  26.6  64.4   8.9   89.6
+South Yuba City CDP                       8816  28.9  61.2   9.9   96.6
+Fortuna city                              8788  25.2  55.7  19.1   85.5
+Roseland CDP                              8779  31.5  59.5   9.0   93.3
+Valle Vista CDP                           8751  16.4  40.8  42.8   82.9
+Patterson city                            8626  36.1  55.3   8.6   99.0
+Scotts Valley city                        8615  23.3  62.0  14.7   93.1
+Crestline CDP                             8594  29.5  62.1   8.4   97.5
+Garden Acres CDP                          8547  30.8  58.4  10.8  102.0
+Riverbank city                            8547  33.2  57.9   8.9   94.4
+Adelanto city                             8517  36.4  58.3   5.3  100.5
+Oroville East CDP                         8462  19.4  53.7  26.9   93.0
+Blythe city                               8428  33.6  56.7   9.7   97.0
+Shafter city                              8409  35.3  54.4  10.3   93.0
+Signal Hill city                          8371  21.6  68.8   9.7  104.1
+Freedom CDP                               8361  33.8  57.1   9.1  100.4
+Placerville city                          8355  23.4  56.7  19.9   83.1
+Lindsay city                              8338  34.3  53.5  12.1   95.4
+Anderson city                             8299  32.4  53.0  14.6   77.8
+Corte Madera town                         8272  17.9  68.6  13.6   88.0
+Coalinga city                             8212  32.1  56.8  11.0   92.9
+Sonoma city                               8121  18.1  51.4  30.5   72.8
+Del Aire CDP                              8040  24.0  64.4  11.7  100.0
+Lake Los Angeles CDP                      7977  40.5  56.7   2.8  101.6
+East Compton CDP                          7967  39.2  57.6   3.2   98.1
+Canyon Lake CDP                           7938  27.2  58.9  13.9   99.1
+Parlier city                              7938  39.7  55.3   5.0  113.4
+Ben Lomond CDP                            7884  27.8  65.3   6.9  102.6
+Woodcrest CDP                             7796  27.8  65.1   7.1  101.0
+Rolling Hills Estates city                7789  21.7  65.4  12.9   93.2
+Home Gardens CDP                          7780  34.5  59.8   5.7  108.6
+Mira Monte CDP                            7744  24.6  59.5  15.9   96.0
+American Canyon CDP                       7706  26.1  60.7  13.3   93.6
+South San Gabriel CDP                     7700  27.2  62.1  10.6   97.0
+Pismo Beach city                          7669  14.7  61.4  23.8   94.8
+King City city                            7634  33.2  58.6   8.2  111.5
+Ojai city                                 7613  23.9  56.2  19.9   81.4
+Aliso Viejo CDP                           7612  20.7  75.8   3.5   89.6
+Rodeo CDP                                 7589  29.3  59.8  10.9   88.5
+Brentwood city                            7563  32.2  59.1   8.7   96.0
+Winton CDP                                7559  38.8  55.4   5.8   97.8
+Muscoy CDP                                7541  37.8  55.4   6.7  100.8
+Tiburon town                              7532  17.9  67.9  14.2   85.0
+Los Altos Hills town                      7514  21.1  65.6  13.3   99.9
+Greenfield city                           7464  38.6  55.9   5.6  105.4
+South Oroville CDP                        7463  33.6  52.6  13.8   87.2
+Ripon city                                7455  34.0  56.8   9.2   92.7
+Westlake Village city                     7455  21.1  65.8  13.1   91.2
+Marina del Rey CDP                        7431   4.3  87.0   8.7  117.3
+Rosamond CDP                              7430  30.7  62.1   7.3  107.4
+Prunedale CDP                             7393  28.8  63.3   7.9   97.8
+Greenacres CDP                            7379  31.6  61.1   7.3   99.3
+Clayton city                              7317  29.5  65.1   5.4   97.9
+Livingston city                           7317  38.8  56.4   4.8  107.2
+Susanville city                           7279  28.6  56.9  14.5   91.7
+Exeter city                               7276  30.8  53.6  15.6   86.2
+Lincoln city                              7248  31.7  57.9  10.3   91.7
+Kingsburg city                            7205  30.9  54.1  15.0   85.4
+Atherton town                             7163  19.6  61.9  18.5   94.5
+Sausalito city                            7152   8.7  80.6  10.7   98.2
+Soledad city                              7146  37.2  57.0   5.7  107.7
+Nipomo CDP                                7109  29.9  56.8  13.3   96.1
+Los Serranos CDP                          7099  31.7  61.7   6.6  101.9
+McFarland city                            7005  39.6  53.0   7.4  104.0
+Sebastopol city                           7004  25.5  57.3  17.2   76.2
+Rancho San Diego CDP                      6977  29.9  66.5   3.6   98.0
+Yreka city                                6948  26.3  54.9  18.9   80.7
+Fairfax town                              6931  19.6  70.8   9.6   90.4
+San Diego Country Estates CDP             6874  33.0  58.2   8.8   98.5
+Lathrop city                              6841  34.7  58.9   6.4  102.0
+Mendota city                              6821  37.7  57.7   4.6  131.0
+Larkfield-Wikiup CDP                      6779  25.4  63.5  11.1   93.4
+Boulder Creek CDP                         6725  28.5  66.1   5.4  106.0
+Lake Arrowhead CDP                        6539  30.1  61.2   8.7  104.4
+Ione city                                 6516  11.0  84.6   4.3  593.4
+El Rio CDP                                6419  31.0  59.4   9.6  107.8
+Interlaken CDP                            6404  32.9  59.7   7.4  103.4
+El Dorado Hills CDP                       6395  31.7  62.1   6.2   97.5
+August CDP                                6376  27.0  59.8  13.2   97.7
+Ladera Heights CDP                        6316  17.2  63.2  19.7   83.5
+Villa Park city                           6299  23.7  69.4   7.0   96.0
+Farmersville city                         6235  39.2  52.2   8.6   97.6
+La Habra Heights city                     6226  22.4  65.5  12.1   98.4
+Blackhawk CDP                             6199  28.2  67.7   4.1  101.1
+Oceano CDP                                6169  29.3  59.3  11.4   99.5
+Fort Bragg city                           6078  25.1  58.8  16.1   88.1
+Kentfield CDP                             6030  20.1  63.2  16.7   91.0
+Willows city                              5988  32.5  54.5  13.0   90.5
+Lucas Valley-Marinwood CDP                5982  24.1  65.5  10.4   87.3
+Boyes Hot Springs CDP                     5973  25.3  63.6  11.1  101.2
+Vandenberg Village CDP                    5971  21.9  61.7  16.4   91.7
+California City city                      5955  31.3  60.4   8.2  102.6
+Cherry Valley CDP                         5945  21.2  53.5  25.3   88.6
+Opal Cliffs CDP                           5940  17.9  68.1  14.0   99.5
+Chowchilla city                           5930  28.8  53.6  17.5   86.8
+East Pasadena CDP                         5910  23.6  61.9  14.5   97.0
+Taft city                                 5902  26.8  60.1  13.1   97.6
+Earlimart CDP                             5881  42.3  51.8   5.9  107.7
+Corning city                              5870  31.4  53.2  15.4   84.3
+Tehachapi city                            5791  30.4  57.0  12.6   95.6
+East Porterville CDP                      5790  36.7  53.7   9.6  103.6
+Emeryville city                           5740  12.5  78.7   8.7   98.1
+Cotati city                               5714  26.4  67.0   6.6   87.7
+Alta Sierra CDP                           5709  23.0  56.3  20.7   94.9
+Bonadelle Ranchos-Madera Ranchos CDP      5705  34.5  60.4   5.1   98.9
+Loomis town                               5705  28.9  61.1  10.0   99.0
+Woodlake city                             5678  37.4  53.8   8.8  102.4
+Mentone CDP                               5675  29.3  59.2  11.5   91.5
+Thermalito CDP                            5646  27.0  54.6  18.4   89.8
+Palm Desert Country CDP                   5626  16.4  61.1  22.5   89.2
+Orange Cove city                          5604  39.1  54.8   6.1  122.8
+March AFB CDP                             5523  26.5  68.5   5.0  174.6
+Orosi CDP                                 5486  35.4  55.6   9.0  121.4
+Guadalupe city                            5479  37.1  55.0   7.8  106.2
+West Compton CDP                          5451  29.2  62.2   8.6   86.9
+Kerman city                               5448  35.7  54.6   9.7   92.5
+Golden Hills CDP                          5423  37.6  57.1   5.3  101.3
+Cambria CDP                               5382  17.4  58.2  24.4   89.4
+Twin Lakes CDP                            5379  17.1  68.0  14.9   95.4
+Big Bear Lake city                        5351  23.2  63.3  13.5  101.5
+Discovery Bay CDP                         5351  21.0  72.4   6.6  104.0
+Felton CDP                                5350  25.6  64.5   9.9   99.7
+Castroville CDP                           5272  37.5  56.5   6.0  107.5
+Palermo CDP                               5260  26.5  56.9  16.6   93.6
+Madera Acres CDP                          5245  37.7  58.1   4.3  100.2
+Needles city                              5191  29.6  53.9  16.5   89.5
+Lakeland Village CDP                      5159  27.4  61.0  11.6  104.8
+Del Monte Forest CDP                      5069  13.2  54.1  32.7   88.4
+Orland city                               5052  30.4  52.7  16.9   85.0
+Woodside town                             5035  19.7  65.8  14.6   95.3
+Willits city                              5027  31.0  55.4  13.6   87.0
+Tara Hills CDP                            4998  23.6  68.7   7.7   95.9
+St. Helena city                           4990  21.3  53.6  25.1   83.8
+Mayflower Village CDP                     4978  23.4  60.2  16.4   87.7
+Kensington CDP                            4974  16.1  61.4  22.5   87.5
+Colusa city                               4934  30.5  57.6  11.9   98.3
+Cloverdale city                           4924  28.6  57.6  13.7   97.6
+Big Bear City CDP                         4920  30.5  58.8  10.7   92.6
+Burbank CDP                               4902  22.1  65.8  12.1   96.5
+Del Mar city                              4860  12.3  75.8  11.9  104.3
+Holtville city                            4820  35.2  55.2   9.6   88.4
+Mammoth Lakes town                        4785  21.8  75.9   2.3  135.6
+Durham CDP                                4784  27.5  59.5  13.0  103.5
+Waterford city                            4771  35.4  54.0  10.7   95.5
+Huron city                                4766  35.1  62.4   2.5  166.3
+Solvang city                              4741  19.6  57.0  23.4   84.0
+Rosedale CDP                              4673  33.6  61.3   5.0  101.2
+Gonzales city                             4660  37.5  55.8   6.7  107.9
+Calimesa CDP                              4647  23.6  51.6  24.7   87.0
+Winters city                              4639  33.3  57.9   8.8   93.9
+Gridley city                              4631  29.9  52.1  17.9   83.5
+Bermuda Dunes CDP                         4571  23.0  65.1  12.0   93.2
+Salida CDP                                4499  33.3  58.9   7.7  100.5
+El Cerrito CDP                            4490  33.9  60.9   5.2  102.5
+Calistoga city                            4468  19.7  52.4  27.8   86.7
+Cutler CDP                                4450  40.2  56.2   3.7  142.9
+Escalon city                              4437  30.2  54.1  15.7   88.7
+Firebaugh city                            4429  39.6  53.9   6.5  108.2
+El Granada CDP                            4426  26.7  67.7   5.6  105.8
+Myrtletown CDP                            4413  27.0  59.4  13.6   89.8
+Carmel Valley Village CDP                 4407  21.1  63.8  15.0   92.2
+Lakeport city                             4390  22.8  55.2  22.0   87.5
+Crescent City city                        4380  31.2  54.9  13.9   84.1
+Strawberry CDP                            4377  15.6  71.7  12.7   87.1
+Central Valley CDP                        4340  30.4  55.5  14.1   87.5
+Live Oak city                             4320  32.2  57.5  10.4   92.5
+Pollock Pines CDP                         4291  25.8  59.4  14.8   97.2
+Quincy-East Quincy CDP                    4271  27.3  58.8  14.0   92.4
+Carmel-by-the-Sea city                    4239  10.0  55.1  34.8   71.8
+Lincoln Village CDP                       4236  25.9  59.5  14.6   88.1
+Rancho Rinconada CDP                      4206  24.8  68.3   7.0  109.9
+Santa Ynez CDP                            4200  25.0  61.5  13.4   90.9
+Dos Palos city                            4196  35.5  53.0  11.5   94.0
+Running Springs CDP                       4195  30.2  62.9   6.9  102.6
+Portola Valley town                       4194  19.0  62.0  19.0   94.4
+Sonora city                               4153  20.3  58.9  20.8   82.5
+Newman city                               4151  33.9  55.2  10.9   94.5
+South Santa Rosa CDP                      4128  27.6  61.1  11.3   99.5
+Thousand Palms CDP                        4122  23.9  48.8  27.3   94.4
+Imperial city                             4113  33.1  58.9   8.1   89.3
+Bayview-Montalvin CDP                     3988  31.7  62.3   6.0   94.2
+West Menlo Park CDP                       3959  17.8  63.0  19.2   82.9
+Gustine city                              3931  26.9  55.1  18.0   92.4
+Joshua Tree CDP                           3898  25.5  49.7  24.8   85.6
+Lake Of The Pines CDP                     3890  24.0  50.5  25.5   92.0
+Wilton CDP                                3858  27.0  65.5   7.5   99.5
+Crescent City North CDP                   3853  32.6  55.6  11.7   92.6
+Lake San Marcos CDP                       3802   4.8  33.6  61.6   79.1
+Arnold CDP                                3788  23.9  56.3  19.8   97.5
+Ford City CDP                             3781  30.6  55.4  14.0   89.0
+Sunnyslope CDP                            3766  33.4  58.9   7.7   96.2
+Mojave CDP                                3763  31.8  59.9   8.2  110.6
+Broadmoor CDP                             3739  23.4  62.1  14.4   91.6
+Denair CDP                                3693  34.2  55.6  10.2   92.4
+Oak View CDP                              3606  30.7  60.7   8.6  100.3
+Morada CDP                                3570  23.5  61.5  15.1   99.9
+Phoenix Lake-Cedar Ridge CDP              3569  25.2  58.6  16.1   95.6
+Jackson city                              3545  19.2  49.5  31.3   80.1
+Planada CDP                               3531  38.9  53.8   7.3  111.3
+Buellton CDP                              3506  25.1  59.5  15.4   98.9
+Angwin CDP                                3503  18.3  71.5  10.2   92.7
+El Verano CDP                             3498  28.5  61.7   9.8   92.7
+Truckee CDP                               3484  27.8  65.0   7.1  110.5
+Bishop city                               3475  20.8  56.0  23.2   86.6
+Mount Shasta city                         3460  27.4  56.9  15.7   82.8
+Woodbridge CDP                            3456  31.2  60.0   8.9  104.8
+Burney CDP                                3423  31.7  55.3  13.0   93.9
+Hilmar-Irwin CDP                          3392  29.7  56.4  13.9   95.4
+North El Monte CDP                        3384  23.8  61.3  14.9   87.6
+Weaverville CDP                           3370  26.9  55.1  18.0   86.3
+Santa Venetia CDP                         3362  20.3  65.6  14.1   93.2
+Pajaro CDP                                3332  37.4  58.0   4.7  127.0
+Meiners Oaks CDP                          3329  28.4  57.1  14.5   88.8
+Emerald Lake Hills CDP                    3328  22.6  67.4  10.0   99.3
+Pacheco CDP                               3325  15.9  65.2  18.9   87.0
+Lake Isabella CDP                         3323  22.2  47.1  30.8   85.1
+Channel Islands Beach CDP                 3317  19.2  74.6   6.2  122.4
+Rio Vista city                            3316  25.0  57.3  17.8   94.2
+Homeland CDP                              3312  16.8  41.7  41.5   89.9
+Wrightwood CDP                            3308  29.1  61.2   9.7   98.7
+Ivanhoe CDP                               3293  36.3  54.1   9.6   99.9
+Monte Sereno city                         3287  21.5  67.4  11.1   96.3
+Casa Conejo CDP                           3286  26.4  66.3   7.3  100.6
+Delhi CDP                                 3280  34.7  56.4   8.9  100.4
+East Richmond Heights CDP                 3266  21.1  65.7  13.2   92.8
+Hughson city                              3259  31.6  57.3  11.0   91.6
+Yountville town                           3259  10.3  41.8  47.9  177.1
+Alturas city                              3231  27.4  54.8  17.8   87.9
+Crockett CDP                              3228  19.4  64.4  16.2   93.4
+Vine Hill CDP                             3214  28.0  64.7   7.3  100.7
+Fowler city                               3208  31.8  53.8  14.4   89.6
+Trabuco Highlands CDP                     3191  33.5  64.8   1.7   96.1
+Lenwood CDP                               3190  34.6  58.8   6.6   99.0
+Highgrove CDP                             3175  32.5  61.6   5.9  103.9
+Granite Hills CDP                         3157  23.9  63.9  12.2  104.4
+Armona CDP                                3122  37.4  54.5   8.1   93.0
+Mission Hills CDP                         3112  30.4  61.3   8.3   97.6
+Loyola CDP                                3076  21.1  64.3  14.6   96.4
+Meadow Vista CDP                          3067  23.6  62.3  14.1   98.6
+Weed city                                 3062  26.9  54.4  18.7   86.0
+Palmdale East CDP                         3052  36.3  55.7   7.9   98.3
+French Camp CDP                           3018  22.1  70.9   7.0  233.0
+Rio Dell city                             3012  28.6  57.4  13.9   92.5
+Nuevo CDP                                 3010  30.0  58.2  11.8   98.1
+Sedco Hills CDP                           3008  25.8  53.2  20.9   92.5
+Moss Beach CDP                            3002  26.6  66.2   7.2   98.5
+Cambrian Park CDP                         2998  24.3  62.9  12.8   98.9
+Cayucos CDP                               2960  17.6  56.5  25.9   88.2
+Brisbane city                             2952  18.2  72.4   9.4  104.2
+Pine Hills CDP                            2947  27.5  63.1   9.4   94.3
+San Antonio Heights CDP                   2935  24.8  65.8   9.5   98.7
+Avalon city                               2918  25.4  62.9  11.7  110.1
+West Bishop CDP                           2908  25.7  59.4  15.0   95.7
+Templeton CDP                             2887  29.9  56.6  13.5   80.2
+Keyes CDP                                 2878  28.4  55.3  16.3   95.2
+Tierra Buena CDP                          2878  26.8  61.7  11.5   96.7
+Diamond Springs CDP                       2872  29.0  53.3  17.6   86.1
+Humboldt Hill CDP                         2865  24.9  61.1  14.0   96.0
+Kelseyville CDP                           2861  29.5  51.0  19.5   83.9
+Nevada City city                          2855  21.8  59.1  19.1   88.9
+Coto De Caza CDP                          2853  30.2  66.4   3.4   96.3
+Idyllwild-Pine Cove CDP                   2853  23.7  60.5  15.9   86.8
+Day Valley CDP                            2842  29.0  64.2   6.8   98.2
+Point Dume CDP                            2809  14.4  68.1  17.5   91.0
+Kings Beach CDP                           2796  26.4  69.8   3.8  136.2
+Groveland-Big Oak Flat CDP                2753  18.7  54.9  26.4   96.9
+Searles Valley CDP                        2740  34.3  56.5   9.2  106.8
+Terra Bella CDP                           2740  37.9  54.8   7.3  118.2
+Lockeford CDP                             2722  30.0  56.9  13.1   99.4
+Calipatria city                           2690  39.9  52.1   8.1   89.5
+Portola Hills CDP                         2677  28.7  68.8   2.5  102.2
+Indian Wells city                         2647   9.0  53.0  38.1   91.9
+Highlands CDP                             2644  23.4  63.7  12.9   98.0
+Sutter CDP                                2606  31.4  57.0  11.6   93.1
+Hayfork CDP                               2605  30.4  58.5  11.2   99.1
+Oakhurst CDP                              2602  21.9  51.2  26.9   79.6
+Mono Vista CDP                            2599  30.3  58.1  11.6   94.0
+Heber CDP                                 2566  36.7  57.1   6.2   87.5
+Dixon Lane-Meadow Creek CDP               2561  24.6  52.2  23.3   88.7
+Montara CDP                               2552  26.5  67.8   5.8   98.7
+Corralitos CDP                            2513  24.4  60.1  15.5   97.6
+Mountain View Acres CDP                   2469  34.2  58.7   7.1   96.5
+Pixley CDP                                2457  36.0  54.2   9.8   92.1
+Forestville CDP                           2443  25.3  63.7  11.1   94.5
+Clearlake Oaks CDP                        2419  16.5  47.5  36.0   86.3
+Oak Park CDP                              2412  30.3  64.7   5.0   94.4
+Angels city                               2409  24.9  54.8  20.3   83.7
+Hidden Meadows CDP                        2371  18.1  59.4  22.6   98.7
+Yosemite Lakes CDP                        2367  25.5  60.3  14.2   99.9
+Strathmore CDP                            2353  36.3  52.3  11.4   90.1
+Rancho Murieta CDP                        2336  17.6  67.4  15.0  100.1
+Romoland CDP                              2319  31.5  55.9  12.5  107.3
+San Joaquin city                          2311  42.9  51.4   5.8  108.5
+Williams city                             2297  34.3  51.8  13.8  101.6
+Aromas CDP                                2275  29.6  61.7   8.7   96.2
+Wofford Heights CDP                       2270  11.7  47.7  40.6   91.3
+Jamul CDP                                 2258  28.5  65.3   6.2  102.5
+Borrego Springs CDP                       2244  17.0  48.8  34.2  103.7
+Aptos Hills-Larkin Valley CDP             2205  22.5  65.4  12.1   97.1
+Frazier Park CDP                          2201  28.6  59.2  12.2  101.3
+Portola city                              2193  29.5  54.8  15.7   88.2
+Jamestown CDP                             2178  22.1  53.4  24.5   84.7
+South Taft CDP                            2170  31.0  58.3  10.7  102.0
+Twain Harte CDP                           2170  25.0  58.5  16.5   94.4
+Squaw Valley CDP                          2161  23.8  58.5  17.7  103.1
+Desert View Highlands CDP                 2154  31.4  59.6   9.1   97.9
+Belvedere city                            2147  16.6  60.7  22.7   87.2
+Glenshire-Devonshire CDP                  2133  32.9  64.6   2.5  102.7
+Dunsmuir city                             2129  26.5  52.8  20.6   92.6
+Las Lomas CDP                             2127  34.9  59.4   5.7  110.8
+Nice CDP                                  2126  20.6  51.5  27.9   93.6
+Ross town                                 2123  24.0  62.9  13.1   90.9
+Harbison Canyon CDP                       2122  27.5  65.2   7.3  103.0
+Bethel Island CDP                         2115  11.9  66.6  21.5  102.8
+San Andreas CDP                           2115  20.2  52.2  27.6   76.1
+Boron CDP                                 2101  28.4  60.7  10.9  107.0
+Chester CDP                               2082  27.1  58.1  14.7   96.0
+Lexington Hills CDP                       2064  21.6  73.4   5.0  108.1
+Taft Heights CDP                          2050  28.2  58.3  13.5   92.2
+Shingle Springs CDP                       2049  30.7  59.8   9.5   98.0
+Fetters Hot Springs-Agua Caliente CDP     2024  22.4  63.9  13.7   93.3
+Westwood CDP                              2017  31.4  56.7  11.9   94.2
+Lucerne CDP                               2011  20.0  43.5  36.5   84.9
+Rainbow CDP                               2006  22.0  62.0  16.0  109.7
+Riverdale CDP                             1980  29.0  58.3  12.7   91.7
+Guerneville CDP                           1966  23.0  64.0  13.0  111.7
+Mecca CDP                                 1966  35.5  58.8   5.7  148.3
+Hidden Valley Lake CDP                    1961  24.9  58.3  16.8  100.1
+Murrieta Hot Springs CDP                  1938   5.6  37.4  57.0   86.3
+Quail Valley CDP                          1937  31.3  59.3   9.4  107.3
+Arbuckle CDP                              1912  37.2  54.1   8.7   95.8
+Parksdale CDP                             1911  35.8  54.9   9.3  111.0
+Poplar-Cotton Center CDP                  1901  39.9  51.4   8.6  101.8
+Richgrove CDP                             1899  40.7  51.6   7.7  122.7
+Weedpatch CDP                             1892  42.4  53.0   4.6  110.8
+Bonsall CDP                               1881  20.0  69.0  11.1  129.8
+Easton CDP                                1877  29.6  57.5  12.9   92.4
+Rolling Hills city                        1871  21.8  63.0  15.3   99.2
+Auberry CDP                               1866  26.7  53.2  20.1  101.6
+Loma Rica CDP                             1852  26.8  58.6  14.6  101.9
+Sutter Creek city                         1835  20.2  56.5  23.3   83.5
+Deer Park CDP                             1825  20.8  61.3  17.9   86.3
+Lagunitas-Forest Knolls CDP               1821  21.9  72.7   5.4   98.1
+Lone Pine CDP                             1818  23.9  50.7  25.5   84.5
+Hamilton City CDP                         1811  33.6  57.1   9.3  127.7
+Columbia CDP                              1799  18.7  55.4  25.9   90.7
+Cottonwood CDP                            1747  30.1  56.2  13.7   85.6
+Soulsbyville CDP                          1732  29.7  55.5  14.8   90.0
+Hidden Hills city                         1729  27.2  64.4   8.4   90.3
+San Martin CDP                            1713  30.0  63.5   6.5  122.9
+Valley Center CDP                         1711  25.1  57.0  17.9   96.3
+Los Molinos CDP                           1709  25.0  52.4  22.6   85.8
+Val Verde CDP                             1689  37.2  58.4   4.4  115.7
+Winchester CDP                            1689  31.0  57.7  11.3   97.6
+Tuolumne City CDP                         1686  29.2  55.0  15.8   85.0
+East Sonora CDP                           1675  18.6  53.6  27.8   83.3
+Del Rey Oaks city                         1661  17.9  66.5  15.6   88.8
+Parkwood CDP                              1659  33.2  59.0   7.8   96.5
+Kernville CDP                             1656  21.7  50.6  27.7   91.6
+Sunnyside-Tahoe City CDP                  1643  22.8  73.4   3.8  117.7
+London CDP                                1638  40.7  55.7   3.7  132.5
+Wheatland city                            1631  29.8  56.1  14.1   83.2
+Murrieta CDP                              1628  29.0  57.8  13.2   96.9
+Caruthers CDP                             1603  33.8  54.6  11.6   90.1
+Temelec CDP                               1594   0.2  36.9  62.9   74.5
+Bear Valley Springs CDP                   1593  27.6  57.6  14.9  100.3
+Cabazon CDP                               1588  28.3  51.7  20.0   89.5
+Biggs city                                1581  34.5  52.0  13.5   87.5
+Willow Creek CDP                          1576  27.3  58.4  14.3  100.2
+San Juan Bautista city                    1570  29.4  58.7  11.9   93.7
+Woodville CDP                             1557  40.7  51.4   8.0  114.4
+Lake Nacimiento CDP                       1556  23.7  58.6  17.7   99.8
+McCloud CDP                               1555  26.6  53.9  19.5   91.4
+Home Garden CDP                           1549  39.7  51.9   8.4  105.7
+Morongo Valley CDP                        1544  26.5  53.6  19.9   91.7
+Murphys CDP                               1517  19.8  47.2  33.0   80.0
+Cutten CDP                                1516  26.2  62.9  10.9   89.3
+East Blythe CDP                           1511  34.1  57.4   8.5   96.4
+Esparto CDP                               1487  32.5  53.7  13.8   99.8
+Woodacre CDP                              1478  23.1  70.2   6.8  105.6
+Cobb CDP                                  1477  34.3  57.5   8.2  102.7
+Acton CDP                                 1471  28.6  64.9   6.5   97.4
+Elkhorn CDP                               1458  28.1  64.5   7.4  108.3
+Dollar Point CDP                          1449  21.1  71.6   7.2  110.5
+Lakeview CDP                              1448  30.8  57.9  11.3  108.8
+Inverness CDP                             1422  19.2  64.7  16.1   86.2
+Laton CDP                                 1415  37.1  53.6   9.3   95.6
+Montague city                             1415  32.9  55.6  11.4   87.2
+Kettleman City CDP                        1411  40.0  56.8   3.3  133.3
+Foresthill CDP                            1409  28.9  58.1  13.1  107.5
+Graton CDP                                1409  24.7  60.5  14.8   89.8
+Greenville CDP                            1396  28.4  51.5  20.1   86.9
+Concow CDP                                1392  25.6  58.0  16.5  108.0
+Tipton CDP                                1383  36.8  51.8  11.4   99.5
+Westmorland city                          1380  37.0  54.0   9.1   96.8
+Linden CDP                                1339  30.1  58.6  11.4   97.5
+Ferndale city                             1331  26.1  58.1  15.8   89.0
+Littlerock CDP                            1320  33.9  60.2   6.0  111.9
+Bayview CDP                               1318  26.8  57.2  16.0   96.1
+Colfax city                               1306  26.6  56.3  17.1   86.0
+Buttonwillow CDP                          1301  37.2  52.7  10.1  104.3
+Occidental CDP                            1300  26.9  63.0  10.1  106.1
+Pine Valley CDP                           1297  27.9  59.9  12.2  101.1
+Bootjack CDP                              1295  25.4  57.7  16.9   89.8
+Julian CDP                                1284  25.2  60.0  14.8  101.0
+Bodfish CDP                               1283  15.9  48.4  35.7   92.7
+North Edwards CDP                         1259  33.2  60.4   6.4  106.1
+Penn Valley CDP                           1242  21.3  56.4  22.3   87.4
+Blue Lake city                            1235  24.5  64.0  11.5   94.8
+Seeley CDP                                1228  38.9  54.1   7.0   90.8
+Lower Lake CDP                            1217  21.9  52.8  25.2   91.9
+South Dos Palos CDP                       1214  43.3  49.3   7.3  101.8
+Lost Hills CDP                            1212  33.6  64.8   1.7  210.8
+Redway CDP                                1212  28.3  56.4  15.3   88.9
+Le Grand CDP                              1205  37.2  52.3  10.5  101.3
+Maricopa city                             1193  31.9  57.8  10.4  101.7
+Glen Ellen CDP                            1191  27.9  63.0   9.2   88.4
+Lewiston CDP                              1187  25.4  56.2  18.4   99.8
+Niland CDP                                1183  25.7  52.7  21.6  103.5
+Mi-Wuk Village CDP                        1175  30.2  55.8  14.0   93.9
+Big Pine CDP                              1158  20.4  54.5  25.1   88.2
+Piru CDP                                  1157  27.9  58.7  13.4  118.3
+Mountain Mesa CDP                         1153  23.1  47.4  29.6   91.2
+Mariposa CDP                              1152  17.7  47.4  34.9   72.1
+Del Rey CDP                               1150  38.5  54.7   6.8  112.3
+Eldridge CDP                              1144  24.2  66.0   9.8   88.9
+Tahoe Vista CDP                           1144  24.0  69.4   6.6  104.5
+Gerber-Las Flores CDP                     1143  29.1  52.8  18.1   96.1
+Laytonville CDP                           1133  29.6  58.9  11.6   98.5
+Hydesville CDP                            1131  28.6  56.9  14.5   94.9
+Bodega Bay CDP                            1127  13.1  69.0  17.8  105.7
+San Miguel CDP                            1123  35.0  56.0   9.0  101.1
+Westhaven-Moonstone CDP                   1109  26.8  61.7  11.5  104.0
+Colma town                                1103  25.4  62.9  11.7   96.9
+Bolinas CDP                               1098  22.5  70.7   6.8   95.2
+Challenge-Brownsville CDP                 1096  22.3  52.2  25.5   93.2
+South Lake CDP                            1059  15.3  44.8  39.9   90.9
+Monte Rio CDP                             1058  22.7  65.2  12.1  111.4
+Covelo CDP                                1057  30.3  54.7  15.0   89.9
+Irwindale city                            1050  34.5  57.8   7.7   93.8
+Tulelake city                             1010  33.4  51.6  15.0   92.3

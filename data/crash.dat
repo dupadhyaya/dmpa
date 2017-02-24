@@ -1,0 +1,353 @@
+MAKE	MODEL	CARID	CARID_YR	HEAD_INJ	CHEST_IN	LLEG_INJ	RLEG_INJ	DRIV_PAS	PROTECT	DOORS	YEAR	WEIGHT	SIZE	SIZE2	PROTECT2
+Acura    	Integra        	Acura Integra            	Acura Integra 87            	599	35	791	262	Driver	manual belts   	2    	87	2350	lt  	2	1
+Acura    	Integra RS     	Acura Integra RS         	Acura Integra RS 90         	585	 	1545	1301	Driver	Motorized belts	4    	90	2490	lt  	2	2
+Acura    	Legend LS      	Acura Legend LS          	Acura Legend LS 88          	435	50	926	708	Driver	d airbag       	4    	88	3280	med 	3	4
+Audi     	80             	Audi 80                  	Audi 80 89                  	600	49	168	1871	Driver	manual belts   	4    	89	2790	comp	1	1
+Audi     	100            	Audi 100                 	Audi 100 89                 	185	35	998	894	Driver	d airbag       	4    	89	3100	med 	3	4
+BMW      	325i           	BMW 325i                 	BMW 325i 90                 	1036	56	865	 	Driver	d airbag       	2    	90	2862	comp	1	4
+Buick    	Century        	Buick Century            	Buick Century 91            	815	47	1340	315	Driver	passive belts  	4    	91	2992	comp	1	3
+Buick    	Elect. Park Ave	Buick Elect. Park Ave    	Buick Elect. Park Ave 88    	1467	54	712	1366	Driver	manual belts   	4    	88	3360	med 	3	1
+Buick    	Le Sabre       	Buick Le Sabre           	Buick Le Sabre 90           	 	35	1049	908	Driver	passive belts  	2    	90	3240	med 	3	3
+Buick    	Regal          	Buick Regal              	Buick Regal 88              	880	50	996	642	Driver	passive belts  	2    	88	3210	med 	3	3
+Cadillac 	De Ville       	Cadillac De Ville        	Cadillac De Ville 90        	423	39	541	1629	Driver	d airbag       	4    	90	3500	hev 	4	4
+Chevrolet	Astro          	Chevrolet Astro          	Chevrolet Astro 88          	1603	72	1572	700	Driver	manual belts   	-    	88	3787	van 	6	1
+Chevrolet	Astro          	Chevrolet Astro          	Chevrolet Astro 89          	1849	64	2737	1043	Driver	manual belts   	-    	89	4002	van 	6	1
+Chevrolet	Beretta        	Chevrolet Beretta        	Chevrolet Beretta 91        	343	37	659	523	Driver	d airbag       	2    	91	2671	comp	1	4
+Chevrolet	Beretta GT     	Chevrolet Beretta GT     	Chevrolet Beretta GT 88     	864	50	1692	1052	Driver	passive belts  	2    	88	2890	comp	1	3
+Chevrolet	Camaro         	Chevrolet Camaro         	Chevrolet Camaro 87         	733	39	736	353	Driver	manual belts   	2    	87	3070	med 	3	1
+Chevrolet	Camaro         	Chevrolet Camaro         	Chevrolet Camaro 91         	585	39	717	150	Driver	d airbag       	2    	91	3191	med 	3	4
+Chevrolet	Caprice        	Chevrolet Caprice        	Chevrolet Caprice 89        	1328	64	406	493	Driver	manual belts   	4    	89	3693	hev 	4	1
+Chevrolet	Caprice        	Chevrolet Caprice        	Chevrolet Caprice 91        	533	54	1529	613	Driver	d airbag       	4    	91	3990	hev 	4	4
+Chevrolet	Cavalier       	Chevrolet Cavalier       	Chevrolet Cavalier 90       	770	49	775	531	Driver	passive belts  	4    	90	2540	comp	1	3
+Chevrolet	Corsica        	Chevrolet Corsica        	Chevrolet Corsica 88        	772	44	1293	737	Driver	manual belts   	4    	88	2750	comp	1	1
+Chevrolet	Corsica        	Chevrolet Corsica        	Chevrolet Corsica 91        	493	41	1171	550	Driver	d airbag       	4    	91	2830	comp	1	4
+Chevrolet	C-1500         	Chevrolet C-1500         	Chevrolet C-1500 88         	892	47	942	622	Driver	manual belts   	-    	88	3680	pu  	7	1
+Chevrolet	G-20 Beauville 	Chevrolet G-20 Beauville 	Chevrolet G-20 Beauville 87 	1387	67	1298	 	Driver	manual belts   	-    	87	4887	van 	6	1
+Chevrolet	G-20           	Chevrolet G-20           	Chevrolet G-20 88           	3665	97	1330	963	Driver	manual belts   	-    	88	4244	van 	6	1
+Chevrolet	Lumina         	Chevrolet Lumina         	Chevrolet Lumina 90         	1200	58	782	 	Driver	passive belts  	4    	90	3155	med 	3	3
+Chevrolet	Suburban       	Chevrolet Suburban       	Chevrolet Suburban 87       	 	50	1911	257	Driver	manual belts   	4    	87	5619	mpv 	8	1
+Chevrolet	S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4 89	834	62	 	 	Driver	manual belts   	2    	89	3518	mpv 	8	1
+Chevrolet	S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4 90	772	74	1539	985	Driver	manual belts   	2    	90	3720	mpv 	8	1
+Chevrolet	S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4 91	1026	71	2626	593	Driver	manual belts   	4    	91	3820	mpv 	8	1
+Chevrolet	S-10 Pickup    	Chevrolet S-10 Pickup    	Chevrolet S-10 Pickup 87    	985	58	1441	1108	Driver	manual belts   	-    	87	2592	pu  	7	1
+Chevrolet	S-10 Pickup 4x4	Chevrolet S-10 Pickup 4x4	Chevrolet S-10 Pickup 4x4 90	1074	66	2234	643	Driver	manual belts   	-    	90	3360	pu  	7	1
+Chrysler 	Fifth Ave      	Chrysler Fifth Ave       	Chrysler Fifth Ave 89       	786	43	1132	667	Driver	d airbag       	4    	89	3820	hev 	4	4
+Chrysler 	Imperial       	Chrysler Imperial        	Chrysler Imperial 90        	517	43	767	979	Driver	d airbag       	4    	90	3540	hev 	4	4
+Chrysler 	Le Baron       	Chrysler Le Baron        	Chrysler Le Baron 87        	791	62	1008	1776	Driver	passive belts  	2    	87	2870	comp	1	3
+Chrysler 	Le Baron       	Chrysler Le Baron        	Chrysler Le Baron 90        	298	40	332	611	Driver	d airbag       	2    	90	3000	med 	3	4
+Chrysler 	New Yorker     	Chrysler New Yorker      	Chrysler New Yorker 88      	1362	55	730	1102	Driver	manual belts   	4    	88	3190	med 	3	1
+Chrysler 	New Yorker     	Chrysler New Yorker      	Chrysler New Yorker 91      	511	55	710	959	Driver	d airbag       	4    	91	3310	med 	3	4
+Daihatsu 	Charade        	Daihatsu Charade         	Daihatsu Charade 88         	768	43	574	598	Driver	manual belts   	2    	88	1820	mini	5	1
+Dodge    	colt           	Dodge colt               	Dodge colt 88               	1354	53	844	461	Driver	manual belts   	4    	88	2348	lt  	2	1
+Dodge    	D-150          	Dodge D-150              	Dodge D-150 88              	685	40	1481	361	Driver	manual belts   	-    	88	3550	pu  	7	1
+Dodge    	Dakota         	Dodge Dakota             	Dodge Dakota 87             	985	44	324	442	Driver	manual belts   	-    	87	3010	pu  	7	1
+Dodge    	Dakota 4x4     	Dodge Dakota 4x4         	Dodge Dakota 4x4 90         	1169	57	575	502	Driver	manual belts   	-    	90	3740	pu  	7	1
+Dodge    	Daytona        	Dodge Daytona            	Dodge Daytona 89            	399	39	729	908	Driver	d airbag       	2    	89	2790	comp	1	4
+Dodge    	Shadow         	Dodge Shadow             	Dodge Shadow 87             	1488	49	1003	529	Driver	manual belts   	2    	87	2550	comp	1	1
+Dodge    	Shadow         	Dodge Shadow             	Dodge Shadow 91             	503	42	1234	647	Driver	d airbag       	4    	91	2730	comp	1	4
+Dodge    	Spirit         	Dodge Spirit             	Dodge Spirit 89             	1421	47	672	772	Driver	manual belts   	4    	89	2840	comp	1	1
+Eagle    	Medallion      	Eagle Medallion          	Eagle Medallion 89          	745	41	1721	1574	Driver	Motorized belts	4    	89	2740	comp	1	2
+Eagle    	Premier        	Eagle Premier            	Eagle Premier 89            	877	46	742	765	Driver	manual belts   	4    	89	3060	med 	3	1
+Ford     	Aerostar       	Ford Aerostar            	Ford Aerostar 87            	1568	49	286	590	Driver	manual belts   	-    	87	3013	van 	6	1
+Ford     	Bronco II 4x4  	Ford Bronco II 4x4       	Ford Bronco II 4x4 89       	994	58	267	428	Driver	manual belts   	2    	89	3485	mpv 	8	1
+Ford     	Club Wagon     	Ford Club Wagon          	Ford Club Wagon 90          	2613	59	1526	688	Driver	manual belts   	-    	90	5103	van 	6	1
+Ford     	Escort         	Ford Escort              	Ford Escort 87              	551	42	1146	465	Driver	passive belts  	2    	87	2280	lt  	2	3
+Ford     	Escort         	Ford Escort              	Ford Escort 91              	434	42	1403	2152	Driver	Motorized belts	2    	91	2336	lt  	2	2
+Ford     	Explorer 4x4   	Ford Explorer 4x4        	Ford Explorer 4x4 91        	903	52	486	617	Driver	manual belts   	4    	91	4212	mpv 	8	1
+Ford     	F-150          	Ford F-150               	Ford F-150 88               	1074	56	1024	644	Driver	manual belts   	-    	88	3757	pu  	7	1
+Ford     	Festiva        	Ford Festiva             	Ford Festiva 88             	1014	52	976	747	Driver	manual belts   	2    	88	1760	mini	5	1
+Ford     	Mustang LX     	Ford Mustang LX          	Ford Mustang LX 87          	479	42	580	921	Driver	manual belts   	2    	87	2868	comp	1	1
+Ford     	Mustang        	Ford Mustang             	Ford Mustang 90             	651	42	1353	1063	Driver	d airbag       	2    	90	3445	med 	3	4
+Ford     	Probe          	Ford Probe               	Ford Probe 89               	970	46	691	579	Driver	manual belts   	2    	89	2650	comp	1	1
+Ford     	Probe          	Ford Probe               	Ford Probe 91               	550	42	1051	1501	Driver	Motorized belts	2    	91	2810	comp	1	2
+Ford     	Ranger         	Ford Ranger              	Ford Ranger 87              	977	52	739	344	Driver	manual belts   	-    	87	2668	pu  	7	1
+Ford     	Ranger 4x4     	Ford Ranger 4x4          	Ford Ranger 4x4 90          	1270	61	572	392	Driver	manual belts   	-    	90	3533	pu  	7	1
+Ford     	Taurus         	Ford Taurus              	Ford Taurus 88              	707	38	 	455	Driver	manual belts   	4    	88	3140	med 	3	1
+Ford     	Taurus         	Ford Taurus              	Ford Taurus 90              	735	46	1219	581	Driver	d airbag       	4    	90	3080	med 	3	4
+Ford     	Taurus         	Ford Taurus              	Ford Taurus 91              	480	44	1901	328	Driver	d airbag       	4    	91	3290	med 	3	4
+Ford     	Tempo          	Ford Tempo               	Ford Tempo 88               	721	47	1113	1037	Driver	passive belts  	4    	88	2660	comp	1	3
+Ford     	T-Bird         	Ford T-Bird              	Ford T-Bird 89              	541	44	1224	1264	Driver	Motorized belts	2    	89	3630	hev 	4	2
+Geo      	Metro          	Geo Metro                	Geo Metro 89                	951	 	789	458	Driver	manual belts   	2    	89	1590	mini	5	1
+Geo      	Metro          	Geo Metro                	Geo Metro 89                	1075	56	805	465	Driver	manual belts   	4    	89	1650	mini	5	1
+Geo      	Prizm          	Geo Prizm                	Geo Prizm 90                	1030	47	1341	455	Driver	manual belts   	4    	90	2355	lt  	2	1
+Geo      	Storm          	Geo Storm                	Geo Storm 91                	417	47	394	478	Driver	d airbag       	2    	91	2250	lt  	2	4
+Honda    	Accord         	Honda Accord             	Honda Accord 87             	769	46	863	1244	Driver	passive belts  	2    	87	2440	lt  	2	3
+Honda    	Accord Dx      	Honda Accord Dx          	Honda Accord Dx 91          	750	50	1361	1214	Driver	Motorized belts	4    	91	2850	comp	1	2
+Honda    	Accord Lx      	Honda Accord Lx          	Honda Accord Lx 91          	562	45	519	892	Driver	d airbag       	4    	91	3160	med 	3	4
+Honda    	Civic          	Honda Civic              	Honda Civic 91              	1068	50	996	765	Driver	Motorized belts	4    	91	2252	lt  	2	2
+Honda    	Civic Crx      	Honda Civic Crx          	Honda Civic Crx 89          	750	39	361	791	Driver	manual belts   	2    	89	1882	mini	5	1
+Honda    	Civic Dx       	Honda Civic Dx           	Honda Civic Dx 88           	787	37	767	471	Driver	manual belts   	2    	88	2077	lt  	2	1
+Honda    	Prelude        	Honda Prelude            	Honda Prelude 90            	1279	59	770	681	Driver	passive belts  	2    	90	2650	comp	1	3
+Hyundai  	Excel          	Hyundai Excel            	Hyundai Excel 87            	757	54	2408	1187	Driver	passive belts  	4    	87	2200	lt  	2	3
+Hyundai  	Excel          	Hyundai Excel            	Hyundai Excel 87            	716	55	790	1360	Driver	manual belts   	2    	87	2180	lt  	2	1
+Hyundai  	Excel          	Hyundai Excel            	Hyundai Excel 90            	696	41	1385	1682	Driver	Motorized belts	2    	90	2200	lt  	2	2
+Hyundai  	Scoupe         	Hyundai Scoupe           	Hyundai Scoupe 91           	870	45	2532	1296	Driver	passive belts  	2    	91	2201	lt  	2	3
+Hyundai  	Sonata         	Hyundai Sonata           	Hyundai Sonata 89           	1196	54	869	1717	Driver	manual belts   	4    	89	2850	comp	1	1
+Infiniti 	M-30           	Infiniti M-30            	Infiniti M-30 90            	466	43	936	844	Driver	d airbag       	2    	90	3370	med 	3	4
+Isuzu    	Amigo          	Isuzu Amigo              	Isuzu Amigo 90              	996	56	388	501	Driver	manual belts   	2    	90	2900	mpv 	8	1
+Isuzu    	I-Mark         	Isuzu I-Mark             	Isuzu I-Mark 87             	1809	53	351	365	Driver	manual belts   	4    	87	2100	lt  	2	1
+Isuzu    	Rodeo          	Isuzu Rodeo              	Isuzu Rodeo 91              	1254	69	568	334	Driver	manual belts   	4    	91	3450	mpv 	8	1
+Isuzu    	Spacecab       	Isuzu Spacecab           	Isuzu Spacecab 87           	1764	65	274	483	Driver	manual belts   	-    	87	2766	pu  	7	1
+Isuzu    	Spacecab       	Isuzu Spacecab           	Isuzu Spacecab 88           	1873	59	325	397	Driver	manual belts   	-    	88	3128	pu  	7	1
+Isuzu    	Stylus         	Isuzu Stylus             	Isuzu Stylus 91             	580	57	1021	440	Driver	d airbag       	4    	91	2333	lt  	2	4
+Isuzu    	Trooper II 4x4 	Isuzu Trooper II 4x4     	Isuzu Trooper II 4x4 89     	1269	73	932	322	Driver	manual belts   	4    	89	3685	mpv 	8	1
+Isuzu    	Trooper II 4x4 	Isuzu Trooper II 4x4     	Isuzu Trooper II 4x4 90     	1564	60	262	307	Driver	manual belts   	4    	90	3684	mpv 	8	1
+Jeep     	Cherokee 4x4   	Jeep Cherokee 4x4        	Jeep Cherokee 4x4 89        	968	69	401	540	Driver	manual belts   	4    	89	3284	mpv 	8	1
+Jeep     	Cherokee 4x4   	Jeep Cherokee 4x4        	Jeep Cherokee 4x4 90        	943	58	785	1218	Driver	manual belts   	4    	90	3270	mpv 	8	1
+Jeep     	Comanche       	Jeep Comanche            	Jeep Comanche 87            	1052	62	925	319	Driver	manual belts   	-    	87	2907	pu  	7	1
+Jeep     	Wrangler YJ 4x4	Jeep Wrangler YJ 4x4     	Jeep Wrangler YJ 4x4 87     	758	44	1100	1015	Driver	manual belts   	2    	87	3120	mpv 	8	1
+Lexus    	ES250          	Lexus ES250              	Lexus ES250 90              	992	55	1102	1012	Driver	d airbag       	4    	90	3280	med 	3	4
+Lincoln  	Continental    	Lincoln Continental      	Lincoln Continental 89      	863	48	314	1247	Driver	d&p airbags    	4    	89	3710	hev 	4	 
+Lincoln  	Town Car       	Lincoln Town Car         	Lincoln Town Car 90         	471	40	1728	855	Driver	d&p airbags    	4    	90	4080	hev 	4	 
+Mazda    	626            	Mazda 626                	Mazda 626 87                	846	52	820	1487	Driver	passive belts  	4    	87	2590	comp	1	3
+Mazda    	929            	Mazda 929                	Mazda 929 88                	273	51	1093	450	Driver	manual belts   	4    	88	3470	med 	3	1
+Mazda    	Miata          	Mazda Miata              	Mazda Miata 90              	920	59	1026	911	Driver	d airbag       	2    	90	2190	lt  	2	4
+Mazda    	Mpv            	Mazda Mpv                	Mazda Mpv 91                	1038	58	803	927	Driver	manual belts   	-    	91	3730	van 	6	1
+Mazda    	Protege        	Mazda Protege            	Mazda Protege 91            	779	57	1700	 	Driver	Motorized belts	4    	91	2417	lt  	2	2
+Mazda    	RX-7           	Mazda RX-7               	Mazda RX-7 88               	921	39	186	268	Driver	manual belts   	2    	88	2630	comp	1	1
+Mercedes 	190E           	Mercedes 190E            	Mercedes 190E 90            	800	60	705	582	Driver	d airbag       	4    	90	3058	med 	3	4
+Mercury  	Sable          	Mercury Sable            	Mercury Sable 88            	712	51	 	862	Driver	manual belts   	4    	88	3200	med 	3	1
+Mercury  	Topaz          	Mercury Topaz            	Mercury Topaz 87            	743	64	585	957	Driver	d airbag       	4    	87	2725	comp	1	4
+Mercury  	Tracer         	Mercury Tracer           	Mercury Tracer 89           	940	48	2073	658	Driver	manual belts   	4    	89	2280	lt  	2	1
+Mitsubish	Eclipse        	Mitsubishi Eclipse       	Mitsubishi Eclipse 90       	772	44	1152	499	Driver	Motorized belts	2    	90	2594	comp	1	2
+Mitsubish	Galant         	Mitsubishi Galant        	Mitsubishi Galant 89        	971	50	1613	584	Driver	manual belts   	4    	89	2740	comp	1	1
+Mitsubish	Galant         	Mitsubishi Galant        	Mitsubishi Galant 91        	1024	61	1243	906	Driver	Motorized belts	4    	91	2838	comp	1	2
+Mitsubish	Mirage         	Mitsubishi Mirage        	Mitsubishi Mirage 89        	960	 	827	1218	Driver	Motorized belts	4    	89	2370	lt  	2	2
+Mitsubish	Montero 4x4    	Mitsubishi Montero 4x4   	Mitsubishi Montero 4x4 88   	1320	45	1303	329	Driver	manual belts   	2    	88	3298	mpv 	8	1
+Mitsubish	Starion        	Mitsubishi Starion       	Mitsubishi Starion 87       	952	48	1260	1369	Driver	passive belts  	2    	87	3020	med 	3	3
+Mitsubish	Wagon          	Mitsubishi Wagon         	Mitsubishi Wagon 89         	805	49	1568	1427	Driver	manual belts   	-    	89	3441	van 	6	1
+Nissan   	240sx          	Nissan 240sx             	Nissan 240sx 89             	407	41	1234	687	Driver	Motorized belts	2    	89	2680	comp	1	2
+Nissan   	200sx          	Nissan 200sx             	Nissan 200sx 87             	1226	53	1390	103	Driver	manual belts   	2    	87	2739	comp	1	1
+Nissan   	300zx          	Nissan 300zx             	Nissan 300zx 91             	765	54	1495	1668	Driver	d airbag       	2    	91	3324	med 	3	4
+Nissan   	Axxess         	Nissan Axxess            	Nissan Axxess 90            	1051	46	919	1257	Driver	passive belts  	-    	90	3037	van 	6	3
+Nissan   	Maxima         	Nissan Maxima            	Nissan Maxima 89            	808	51	611	1409	Driver	Motorized belts	4    	89	3160	med 	3	2
+Nissan   	Maxima SE      	Nissan Maxima SE         	Nissan Maxima SE 88         	907	64	1422	885	Driver	passive belts  	4    	88	3210	med 	3	3
+Nissan   	NL Xev Pickup  	Nissan NL Xev Pickup     	Nissan NL Xev Pickup 88     	1528	67	242	655	Driver	manual belts   	-    	88	2631	pu  	7	1
+Nissan   	Pickup         	Nissan Pickup            	Nissan Pickup 87            	1465	57	252	420	Driver	manual belts   	-    	87	2714	pu  	7	1
+Nissan   	Pickup         	Nissan Pickup            	Nissan Pickup 89            	742	46	794	621	Driver	manual belts   	-    	89	2670	pu  	7	1
+Nissan   	Pulsar Nx      	Nissan Pulsar Nx         	Nissan Pulsar Nx 88         	1134	40	 	226	Driver	manual belts   	2    	88	2480	lt  	2	1
+Nissan   	Sentra         	Nissan Sentra            	Nissan Sentra 87            	2034	61	803	304	Driver	manual belts   	4    	87	2296	lt  	2	1
+Nissan   	Sentra         	Nissan Sentra            	Nissan Sentra 88            	1047	53	880	1030	Driver	manual belts   	4    	88	2328	lt  	2	1
+Nissan   	Sentra         	Nissan Sentra            	Nissan Sentra 91            	583	46	1117	475	Driver	Motorized belts	2    	91	2420	lt  	2	2
+Nissan   	Stanza         	Nissan Stanza            	Nissan Stanza 90            	1105	59	1404	813	Driver	Motorized belts	4    	90	2790	comp	1	2
+Nissan   	Stanza         	Nissan Stanza            	Nissan Stanza 91            	546	56	1803	413	Driver	Motorized belts	4    	91	2740	comp	1	2
+Nissan   	Van Xe         	Nissan Van Xe            	Nissan Van Xe 88            	949	54	1326	661	Driver	manual belts   	-    	88	3560	van 	6	1
+Oldsmobil	Calais         	Oldsmobile Calais        	Oldsmobile Calais 87        	405	70	1085	1435	Driver	passive belts  	4    	87	2650	comp	1	3
+Oldsmobil	Delta 88       	Oldsmobile Delta 88      	Oldsmobile Delta 88 88      	710	51	1350	520	Driver	d airbag       	4    	88	3460	med 	3	4
+Peugeot  	505S           	Peugeot 505S             	Peugeot 505S 89             	1983	64	966	1024	Driver	Motorized belts	4    	89	3010	med 	3	2
+Peugeot  	505            	Peugeot 505              	Peugeot 505 87              	1831	60	300	535	Driver	manual belts   	4    	87	2900	comp	1	1
+Peugeot  	505 GLS        	Peugeot 505 GLS          	Peugeot 505 GLS 88          	1701	60	1657	751	Driver	passive belts  	4    	88	3070	med 	3	3
+Plymouth 	Acclaim        	Plymouth Acclaim         	Plymouth Acclaim 89         	663	46	1201	840	Driver	manual belts   	4    	89	2820	comp	1	1
+Plymouth 	Acclaim        	Plymouth Acclaim         	Plymouth Acclaim 91         	762	55	1044	252	Driver	d airbag       	4    	91	2860	comp	1	4
+Plymouth 	Sundance       	Plymouth Sundance        	Plymouth Sundance 87        	873	52	717	467	Driver	manual belts   	4    	87	2580	comp	1	1
+Plymouth 	Voyager        	Plymouth Voyager         	Plymouth Voyager 87         	903	43	776	453	Driver	manual belts   	-    	87	3040	van 	6	1
+Pontiac  	Grand Am       	Pontiac Grand Am         	Pontiac Grand Am 87         	846	44	879	497	Driver	passive belts  	2    	87	2530	comp	1	3
+Pontiac  	Le Mans        	Pontiac Le Mans          	Pontiac Le Mans 88          	819	57	1263	378	Driver	manual belts   	2    	88	2200	lt  	2	1
+Pontiac  	Sunbird        	Pontiac Sunbird          	Pontiac Sunbird 87          	603	36	428	483	Driver	manual belts   	4    	87	2415	lt  	2	1
+Pontiac  	Trans Sport    	Pontiac Trans Sport      	Pontiac Trans Sport 90      	761	42	1109	913	Driver	manual belts   	-    	90	3740	van 	6	1
+Renault  	Medallion      	Renault Medallion        	Renault Medallion 88        	1656	57	205	411	Driver	manual belts   	4    	88	2660	comp	1	1
+Saab     	900S           	Saab 900S                	Saab 900S 88                	718	46	1776	 	Driver	passive belts  	2    	88	2840	comp	1	3
+Saab     	9000           	Saab 9000                	Saab 9000 87                	584	37	120	435	Driver	manual belts   	4    	87	2990	comp	1	1
+Saturn   	SL2            	Saturn SL2               	Saturn SL2 91               	918	44	1009	1178	Driver	Motorized belts	4    	91	2453	lt  	2	2
+Subaru   	GL             	Subaru GL                	Subaru GL 87                	1339	58	1016	485	Driver	manual belts   	4    	87	2254	lt  	2	1
+Subaru   	Justy DL       	Subaru Justy DL          	Subaru Justy DL 87          	611	42	529	595	Driver	manual belts   	2    	87	1660	mini	5	1
+Subaru   	Legacy         	Subaru Legacy            	Subaru Legacy 90            	1007	52	1957	842	Driver	Motorized belts	4    	90	2640	comp	1	2
+Suzuki   	Sidekick 4x4   	Suzuki Sidekick 4x4      	Suzuki Sidekick 4x4 89      	1345	64	1595	2856	Driver	manual belts   	2    	89	2311	mpv 	8	1
+Suzuki   	Sidekick 4x4   	Suzuki Sidekick 4x4      	Suzuki Sidekick 4x4 91      	1314	74	562	2285	Driver	manual belts   	2    	91	2643	mpv 	8	1
+Toyota   	4-Runner 4x4   	Toyota 4-Runner 4x4      	Toyota 4-Runner 4x4 90      	1306	48	430	821	Driver	manual belts   	4    	90	3860	mpv 	8	1
+Toyota   	Camry          	Toyota Camry             	Toyota Camry 87             	871	51	1380	1160	Driver	passive belts  	4    	87	2780	comp	1	3
+Toyota   	Celica         	Toyota Celica            	Toyota Celica 90            	834	50	1071	906	Driver	d airbag       	2    	90	2460	lt  	2	4
+Toyota   	Corolla Fx     	Toyota Corolla Fx        	Toyota Corolla Fx 88        	593	42	719	300	Driver	manual belts   	2    	88	2320	lt  	2	1
+Toyota   	Corolla        	Toyota Corolla           	Toyota Corolla 89           	994	49	1101	451	Driver	manual belts   	4    	89	2370	lt  	2	1
+Toyota   	Corolla        	Toyota Corolla           	Toyota Corolla 91           	1238	54	1375	1342	Driver	passive belts  	4    	91	2405	lt  	2	3
+Toyota   	Cressida       	Toyota Cressida          	Toyota Cressida 89          	790	51	1632	1246	Driver	Motorized belts	4    	89	3450	med 	3	2
+Toyota   	Pickup         	Toyota Pickup            	Toyota Pickup 87            	1184	57	437	364	Driver	manual belts   	-    	87	2508	pu  	7	1
+Toyota   	Pickup         	Toyota Pickup            	Toyota Pickup 89            	1520	47	1340	1053	Driver	manual belts   	-    	89	2543	pu  	7	1
+Toyota   	Pickup 4x4     	Toyota Pickup 4x4        	Toyota Pickup 4x4 91        	1342	49	1104	636	Driver	manual belts   	-    	91	3284	pu  	7	1
+Toyota   	Previa         	Toyota Previa            	Toyota Previa 91            	1434	66	332	663	Driver	manual belts   	-    	91	3642	van 	6	1
+Toyota   	Tercel         	Toyota Tercel            	Toyota Tercel 88            	1005	40	1245	367	Driver	manual belts   	2    	88	2100	lt  	2	1
+Toyota   	Tercel         	Toyota Tercel            	Toyota Tercel 91            	1138	57	945	778	Driver	passive belts  	4    	91	2120	lt  	2	3
+Toyota   	Van            	Toyota Van               	Toyota Van 89               	1183	59	1199	474	Driver	manual belts   	-    	89	3277	van 	6	1
+Volkswage	Fox            	Volkswagen Fox           	Volkswagen Fox 87           	1801	52	484	924	Driver	manual belts   	2    	87	2140	lt  	2	1
+Volkswage	Fox            	Volkswagen Fox           	Volkswagen Fox 88           	1114	55	344	663	Driver	manual belts   	2    	88	2200	lt  	2	1
+Volkswage	Fox            	Volkswagen Fox           	Volkswagen Fox 89           	787	64	139	1019	Driver	manual belts   	2    	89	2150	lt  	2	1
+Volkswage	Passat         	Volkswagen Passat        	Volkswagen Passat 90        	1182	59	1104	1436	Driver	Motorized belts	4    	90	2990	comp	1	2
+Volkswage	Vanagon GL     	Volkswagen Vanagon GL    	Volkswagen Vanagon GL 88    	1320	59	2930	1911	Driver	manual belts   	-    	88	3520	van 	6	1
+Volvo    	740 GLE        	Volvo 740 GLE            	Volvo 740 GLE 88            	519	42	1143	723	Driver	d airbag       	4    	88	3010	med 	3	4
+Yugo     	GV             	Yugo GV                  	Yugo GV 87                  	1855	45	 	701	Driver	manual belts   	2    	87	1850	mini	5	1
+Acura    	Integra        	Acura Integra            	Acura Integra 87            	597	34	387	354	Passen	manual belts   	2    	87	2350	lt  	2	1
+Acura    	Integra RS     	Acura Integra RS         	Acura Integra RS 90         	637	42	1684	1877	Passen	Motorized belts	4    	90	2490	lt  	2	2
+Acura    	Legend LS      	Acura Legend LS          	Acura Legend LS 88          	618	41	730	722	Passen	d airbag       	4    	88	3280	med 	3	4
+Audi     	80             	Audi 80                  	Audi 80 89                  	515	39	324	245	Passen	manual belts   	4    	89	2790	comp	1	1
+Audi     	100            	Audi 100                 	Audi 100 89                 	710	31	571	757	Passen	d airbag       	4    	89	3100	med 	3	4
+BMW      	325i           	BMW 325i                 	BMW 325i 90                 	 	 	853	 	Passen	d airbag       	2    	90	2862	comp	1	4
+Buick    	Century        	Buick Century            	Buick Century 91            	1144	40	1014	179	Passen	passive belts  	4    	91	2992	comp	1	3
+Buick    	Elect. Park Ave	Buick Elect. Park Ave    	Buick Elect. Park Ave 88    	794	37	479	686	Passen	manual belts   	4    	88	3360	med 	3	1
+Buick    	Le Sabre       	Buick Le Sabre           	Buick Le Sabre 90           	426	32	669	903	Passen	passive belts  	2    	90	3240	med 	3	3
+Buick    	Regal          	Buick Regal              	Buick Regal 88              	535	33	686	526	Passen	passive belts  	2    	88	3210	med 	3	3
+Cadillac 	De Ville       	Cadillac De Ville        	Cadillac De Ville 90        	 	46	764	1113	Passen	d airbag       	4    	90	3500	hev 	4	4
+Chevrolet	Astro          	Chevrolet Astro          	Chevrolet Astro 88          	1424	63	1695	576	Passen	manual belts   	-    	88	3787	van 	6	1
+Chevrolet	Astro          	Chevrolet Astro          	Chevrolet Astro 89          	1838	64	1901	365	Passen	manual belts   	-    	89	4002	van 	6	1
+Chevrolet	Beretta        	Chevrolet Beretta        	Chevrolet Beretta 91        	739	35	910	230	Passen	d airbag       	2    	91	2671	comp	1	4
+Chevrolet	Beretta GT     	Chevrolet Beretta GT     	Chevrolet Beretta GT 88     	559	42	1731	796	Passen	passive belts  	2    	88	2890	comp	1	3
+Chevrolet	Camaro         	Chevrolet Camaro         	Chevrolet Camaro 87         	660	39	961	144	Passen	manual belts   	2    	87	3070	med 	3	1
+Chevrolet	Camaro         	Chevrolet Camaro         	Chevrolet Camaro 91         	583	42	627	174	Passen	d airbag       	2    	91	3191	med 	3	4
+Chevrolet	Caprice        	Chevrolet Caprice        	Chevrolet Caprice 89        	1365	42	260	495	Passen	manual belts   	4    	89	3693	hev 	4	1
+Chevrolet	Caprice        	Chevrolet Caprice        	Chevrolet Caprice 91        	1101	48	1527	626	Passen	d airbag       	4    	91	3990	hev 	4	4
+Chevrolet	Cavalier       	Chevrolet Cavalier       	Chevrolet Cavalier 90       	485	37	1749	890	Passen	passive belts  	4    	90	2540	comp	1	3
+Chevrolet	Corsica        	Chevrolet Corsica        	Chevrolet Corsica 88        	752	40	614	845	Passen	manual belts   	4    	88	2750	comp	1	1
+Chevrolet	Corsica        	Chevrolet Corsica        	Chevrolet Corsica 91        	956	44	1377	424	Passen	d airbag       	4    	91	2830	comp	1	4
+Chevrolet	C-1500         	Chevrolet C-1500         	Chevrolet C-1500 88         	374	46	1207	306	Passen	manual belts   	-    	88	3680	pu  	7	1
+Chevrolet	G-20 Beauville 	Chevrolet G-20 Beauville 	Chevrolet G-20 Beauville 87 	1719	43	1507	 	Passen	manual belts   	-    	87	4887	van 	6	1
+Chevrolet	G-20           	Chevrolet G-20           	Chevrolet G-20 88           	1452	56	2447	259	Passen	manual belts   	-    	88	4244	van 	6	1
+Chevrolet	Lumina         	Chevrolet Lumina         	Chevrolet Lumina 90         	 	 	935	 	Passen	passive belts  	4    	90	3155	med 	3	3
+Chevrolet	Suburban       	Chevrolet Suburban       	Chevrolet Suburban 87       	 	42	101	358	Passen	manual belts   	4    	87	5619	mpv 	8	1
+Chevrolet	S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4 89	2482	48	 	 	Passen	manual belts   	2    	89	3518	mpv 	8	1
+Chevrolet	S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4 90	 	45	1106	975	Passen	manual belts   	2    	90	3720	mpv 	8	1
+Chevrolet	S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4	Chevrolet S-10 Blazer 4X4 91	1826	51	1909	515	Passen	manual belts   	4    	91	3820	mpv 	8	1
+Chevrolet	S-10 Pickup    	Chevrolet S-10 Pickup    	Chevrolet S-10 Pickup 87    	522	34	1476	699	Passen	manual belts   	-    	87	2592	pu  	7	1
+Chevrolet	S-10 Pickup 4x4	Chevrolet S-10 Pickup 4x4	Chevrolet S-10 Pickup 4x4 90	1358	53	2046	804	Passen	manual belts   	-    	90	3360	pu  	7	1
+Chrysler 	Fifth Ave      	Chrysler Fifth Ave       	Chrysler Fifth Ave 89       	682	43	766	575	Passen	d airbag       	4    	89	3820	hev 	4	4
+Chrysler 	Imperial       	Chrysler Imperial        	Chrysler Imperial 90        	2132	56	862	863	Passen	d airbag       	4    	90	3540	hev 	4	4
+Chrysler 	Le Baron       	Chrysler Le Baron        	Chrysler Le Baron 87        	1698	82	1863	853	Passen	passive belts  	2    	87	2870	comp	1	3
+Chrysler 	Le Baron       	Chrysler Le Baron        	Chrysler Le Baron 90        	2043	46	1119	769	Passen	d airbag       	2    	90	3000	med 	3	4
+Chrysler 	New Yorker     	Chrysler New Yorker      	Chrysler New Yorker 88      	424	43	1580	454	Passen	manual belts   	4    	88	3190	med 	3	1
+Chrysler 	New Yorker     	Chrysler New Yorker      	Chrysler New Yorker 91      	 	 	1133	794	Passen	d airbag       	4    	91	3310	med 	3	4
+Daihatsu 	Charade        	Daihatsu Charade         	Daihatsu Charade 88         	642	37	1188	388	Passen	manual belts   	2    	88	1820	mini	5	1
+Dodge    	colt           	Dodge colt               	Dodge colt 88               	816	38	402	1601	Passen	manual belts   	4    	88	2348	lt  	2	1
+Dodge    	D-150          	Dodge D-150              	Dodge D-150 88              	466	35	396	276	Passen	manual belts   	-    	88	3550	pu  	7	1
+Dodge    	Dakota         	Dodge Dakota             	Dodge Dakota 87             	754	41	213	460	Passen	manual belts   	-    	87	3010	pu  	7	1
+Dodge    	Dakota 4x4     	Dodge Dakota 4x4         	Dodge Dakota 4x4 90         	558	56	846	625	Passen	manual belts   	-    	90	3740	pu  	7	1
+Dodge    	Daytona        	Dodge Daytona            	Dodge Daytona 89            	297	32	795	457	Passen	d airbag       	2    	89	2790	comp	1	4
+Dodge    	Shadow         	Dodge Shadow             	Dodge Shadow 87             	653	36	748	486	Passen	manual belts   	2    	87	2550	comp	1	1
+Dodge    	Shadow         	Dodge Shadow             	Dodge Shadow 91             	457	39	739	781	Passen	d airbag       	4    	91	2730	comp	1	4
+Dodge    	Spirit         	Dodge Spirit             	Dodge Spirit 89             	537	45	1295	707	Passen	manual belts   	4    	89	2840	comp	1	1
+Eagle    	Medallion      	Eagle Medallion          	Eagle Medallion 89          	589	39	1738	1670	Passen	Motorized belts	4    	89	2740	comp	1	2
+Eagle    	Premier        	Eagle Premier            	Eagle Premier 89            	868	44	1011	685	Passen	manual belts   	4    	89	3060	med 	3	1
+Ford     	Aerostar       	Ford Aerostar            	Ford Aerostar 87            	1070	54	518	446	Passen	manual belts   	-    	87	3013	van 	6	1
+Ford     	Bronco II 4x4  	Ford Bronco II 4x4       	Ford Bronco II 4x4 89       	950	51	2110	289	Passen	manual belts   	2    	89	3485	mpv 	8	1
+Ford     	Club Wagon     	Ford Club Wagon          	Ford Club Wagon 90          	1896	49	3347	1294	Passen	manual belts   	-    	90	5103	van 	6	1
+Ford     	Escort         	Ford Escort              	Ford Escort 87              	418	40	1053	619	Passen	passive belts  	2    	87	2280	lt  	2	3
+Ford     	Escort         	Ford Escort              	Ford Escort 91              	450	39	1055	1119	Passen	Motorized belts	2    	91	2336	lt  	2	2
+Ford     	Explorer 4x4   	Ford Explorer 4x4        	Ford Explorer 4x4 91        	 	 	606	718	Passen	manual belts   	4    	91	4212	mpv 	8	1
+Ford     	F-150          	Ford F-150               	Ford F-150 88               	587	38	1090	295	Passen	manual belts   	-    	88	3757	pu  	7	1
+Ford     	Festiva        	Ford Festiva             	Ford Festiva 88             	822	43	876	251	Passen	manual belts   	2    	88	1760	mini	5	1
+Ford     	Mustang LX     	Ford Mustang LX          	Ford Mustang LX 87          	301	34	1589	290	Passen	manual belts   	2    	87	2868	comp	1	1
+Ford     	Mustang        	Ford Mustang             	Ford Mustang 90             	438	50	1707	408	Passen	d airbag       	2    	90	3445	med 	3	4
+Ford     	Probe          	Ford Probe               	Ford Probe 89               	496	35	870	187	Passen	manual belts   	2    	89	2650	comp	1	1
+Ford     	Probe          	Ford Probe               	Ford Probe 91               	418	45	1592	1033	Passen	Motorized belts	2    	91	2810	comp	1	2
+Ford     	Ranger         	Ford Ranger              	Ford Ranger 87              	551	47	526	701	Passen	manual belts   	-    	87	2668	pu  	7	1
+Ford     	Ranger 4x4     	Ford Ranger 4x4          	Ford Ranger 4x4 90          	736	52	3200	282	Passen	manual belts   	-    	90	3533	pu  	7	1
+Ford     	Taurus         	Ford Taurus              	Ford Taurus 88              	359	47	775	438	Passen	manual belts   	4    	88	3140	med 	3	1
+Ford     	Taurus         	Ford Taurus              	Ford Taurus 90              	609	40	1261	318	Passen	d airbag       	4    	90	3080	med 	3	4
+Ford     	Taurus         	Ford Taurus              	Ford Taurus 91              	258	38	1594	708	Passen	d airbag       	4    	91	3290	med 	3	4
+Ford     	Tempo          	Ford Tempo               	Ford Tempo 88               	470	50	1773	702	Passen	passive belts  	4    	88	2660	comp	1	3
+Ford     	T-Bird         	Ford T-Bird              	Ford T-Bird 89              	496	40	1138	776	Passen	Motorized belts	2    	89	3630	hev 	4	2
+Geo      	Metro          	Geo Metro                	Geo Metro 89                	1177	33	671	571	Passen	manual belts   	2    	89	1590	mini	5	1
+Geo      	Metro          	Geo Metro                	Geo Metro 89                	840	46	244	1002	Passen	manual belts   	4    	89	1650	mini	5	1
+Geo      	Prizm          	Geo Prizm                	Geo Prizm 90                	1141	53	1549	447	Passen	manual belts   	4    	90	2355	lt  	2	1
+Geo      	Storm          	Geo Storm                	Geo Storm 91                	981	45	508	555	Passen	d airbag       	2    	91	2250	lt  	2	4
+Honda    	Accord         	Honda Accord             	Honda Accord 87             	382	36	695	558	Passen	passive belts  	2    	87	2440	lt  	2	3
+Honda    	Accord Dx      	Honda Accord Dx          	Honda Accord Dx 91          	378	40	1452	900	Passen	Motorized belts	4    	91	2850	comp	1	2
+Honda    	Accord Lx      	Honda Accord Lx          	Honda Accord Lx 91          	539	43	1015	562	Passen	d airbag       	4    	91	3160	med 	3	4
+Honda    	Civic          	Honda Civic              	Honda Civic 91              	601	47	2158	624	Passen	Motorized belts	4    	91	2252	lt  	2	2
+Honda    	Civic Crx      	Honda Civic Crx          	Honda Civic Crx 89          	520	37	903	375	Passen	manual belts   	2    	89	1882	mini	5	1
+Honda    	Civic Dx       	Honda Civic Dx           	Honda Civic Dx 88           	533	38	816	184	Passen	manual belts   	2    	88	2077	lt  	2	1
+Honda    	Prelude        	Honda Prelude            	Honda Prelude 90            	854	48	674	733	Passen	passive belts  	2    	90	2650	comp	1	3
+Hyundai  	Excel          	Hyundai Excel            	Hyundai Excel 87            	345	46	1794	1006	Passen	passive belts  	4    	87	2200	lt  	2	3
+Hyundai  	Excel          	Hyundai Excel            	Hyundai Excel 87            	1003	43	345	775	Passen	manual belts   	2    	87	2180	lt  	2	1
+Hyundai  	Excel          	Hyundai Excel            	Hyundai Excel 90            	419	39	1921	964	Passen	Motorized belts	2    	90	2200	lt  	2	2
+Hyundai  	Scoupe         	Hyundai Scoupe           	Hyundai Scoupe 91           	618	42	966	333	Passen	passive belts  	2    	91	2201	lt  	2	3
+Hyundai  	Sonata         	Hyundai Sonata           	Hyundai Sonata 89           	937	53	603	293	Passen	manual belts   	4    	89	2850	comp	1	1
+Infiniti 	M-30           	Infiniti M-30            	Infiniti M-30 90            	443	45	1132	716	Passen	d airbag       	2    	90	3370	med 	3	4
+Isuzu    	Amigo          	Isuzu Amigo              	Isuzu Amigo 90              	744	63	319	458	Passen	manual belts   	2    	90	2900	mpv 	8	1
+Isuzu    	I-Mark         	Isuzu I-Mark             	Isuzu I-Mark 87             	1042	51	747	225	Passen	manual belts   	4    	87	2100	lt  	2	1
+Isuzu    	Rodeo          	Isuzu Rodeo              	Isuzu Rodeo 91              	884	71	469	420	Passen	manual belts   	4    	91	3450	mpv 	8	1
+Isuzu    	Spacecab       	Isuzu Spacecab           	Isuzu Spacecab 87           	1067	58	279	480	Passen	manual belts   	-    	87	2766	pu  	7	1
+Isuzu    	Spacecab       	Isuzu Spacecab           	Isuzu Spacecab 88           	723	55	412	172	Passen	manual belts   	-    	88	3128	pu  	7	1
+Isuzu    	Stylus         	Isuzu Stylus             	Isuzu Stylus 91             	 	46	859	717	Passen	d airbag       	4    	91	2333	lt  	2	4
+Isuzu    	Trooper II 4x4 	Isuzu Trooper II 4x4     	Isuzu Trooper II 4x4 89     	1520	59	804	262	Passen	manual belts   	4    	89	3685	mpv 	8	1
+Isuzu    	Trooper II 4x4 	Isuzu Trooper II 4x4     	Isuzu Trooper II 4x4 90     	1952	64	430	141	Passen	manual belts   	4    	90	3684	mpv 	8	1
+Jeep     	Cherokee 4x4   	Jeep Cherokee 4x4        	Jeep Cherokee 4x4 89        	1796	43	1486	337	Passen	manual belts   	4    	89	3284	mpv 	8	1
+Jeep     	Cherokee 4x4   	Jeep Cherokee 4x4        	Jeep Cherokee 4x4 90        	841	52	1277	692	Passen	manual belts   	4    	90	3270	mpv 	8	1
+Jeep     	Comanche       	Jeep Comanche            	Jeep Comanche 87            	2700	48	923	761	Passen	manual belts   	-    	87	2907	pu  	7	1
+Jeep     	Wrangler YJ 4x4	Jeep Wrangler YJ 4x4     	Jeep Wrangler YJ 4x4 87     	1229	40	758	783	Passen	manual belts   	2    	87	3120	mpv 	8	1
+Lexus    	ES250          	Lexus ES250              	Lexus ES250 90              	630	47	1689	1075	Passen	d airbag       	4    	90	3280	med 	3	4
+Lincoln  	Continental    	Lincoln Continental      	Lincoln Continental 89      	492	 	1326	1090	Passen	d&p airbags    	4    	89	3710	hev 	4	 
+Lincoln  	Town Car       	Lincoln Town Car         	Lincoln Town Car 90         	 	36	883	644	Passen	d&p airbags    	4    	90	4080	hev 	4	 
+Mazda    	626            	Mazda 626                	Mazda 626 87                	801	46	1300	1255	Passen	passive belts  	4    	87	2590	comp	1	3
+Mazda    	929            	Mazda 929                	Mazda 929 88                	859	49	774	450	Passen	manual belts   	4    	88	3470	med 	3	1
+Mazda    	Miata          	Mazda Miata              	Mazda Miata 90              	531	42	796	763	Passen	d airbag       	2    	90	2190	lt  	2	4
+Mazda    	Mpv            	Mazda Mpv                	Mazda Mpv 91                	500	48	579	776	Passen	manual belts   	-    	91	3730	van 	6	1
+Mazda    	Protege        	Mazda Protege            	Mazda Protege 91            	612	51	851	997	Passen	Motorized belts	4    	91	2417	lt  	2	2
+Mazda    	RX-7           	Mazda RX-7               	Mazda RX-7 88               	614	48	1135	650	Passen	manual belts   	2    	88	2630	comp	1	1
+Mercedes 	190E           	Mercedes 190E            	Mercedes 190E 90            	833	58	1028	331	Passen	d airbag       	4    	90	3058	med 	3	4
+Mercury  	Sable          	Mercury Sable            	Mercury Sable 88            	410	35	1512	913	Passen	manual belts   	4    	88	3200	med 	3	1
+Mercury  	Topaz          	Mercury Topaz            	Mercury Topaz 87            	626	40	1277	455	Passen	d airbag       	4    	87	2725	comp	1	4
+Mercury  	Tracer         	Mercury Tracer           	Mercury Tracer 89           	425	38	733	581	Passen	manual belts   	4    	89	2280	lt  	2	1
+Mitsubish	Eclipse        	Mitsubishi Eclipse       	Mitsubishi Eclipse 90       	612	40	1033	413	Passen	Motorized belts	2    	90	2594	comp	1	2
+Mitsubish	Galant         	Mitsubishi Galant        	Mitsubishi Galant 89        	998	40	1229	526	Passen	manual belts   	4    	89	2740	comp	1	1
+Mitsubish	Galant         	Mitsubishi Galant        	Mitsubishi Galant 91        	711	53	1395	1232	Passen	Motorized belts	4    	91	2838	comp	1	2
+Mitsubish	Mirage         	Mitsubishi Mirage        	Mitsubishi Mirage 89        	772	42	1367	1078	Passen	Motorized belts	4    	89	2370	lt  	2	2
+Mitsubish	Montero 4x4    	Mitsubishi Montero 4x4   	Mitsubishi Montero 4x4 88   	488	50	1001	302	Passen	manual belts   	2    	88	3298	mpv 	8	1
+Mitsubish	Starion        	Mitsubishi Starion       	Mitsubishi Starion 87       	377	46	1752	1323	Passen	passive belts  	2    	87	3020	med 	3	3
+Mitsubish	Wagon          	Mitsubishi Wagon         	Mitsubishi Wagon 89         	713	51	1607	791	Passen	manual belts   	-    	89	3441	van 	6	1
+Nissan   	240sx          	Nissan 240sx             	Nissan 240sx 89             	525	44	656	854	Passen	Motorized belts	2    	89	2680	comp	1	2
+Nissan   	200sx          	Nissan 200sx             	Nissan 200sx 87             	664	37	740	89	Passen	manual belts   	2    	87	2739	comp	1	1
+Nissan   	300zx          	Nissan 300zx             	Nissan 300zx 91             	 	47	1415	1552	Passen	d airbag       	2    	91	3324	med 	3	4
+Nissan   	Axxess         	Nissan Axxess            	Nissan Axxess 90            	654	46	1266	1143	Passen	passive belts  	-    	90	3037	van 	6	3
+Nissan   	Maxima         	Nissan Maxima            	Nissan Maxima 89            	736	44	664	1043	Passen	Motorized belts	4    	89	3160	med 	3	2
+Nissan   	Maxima SE      	Nissan Maxima SE         	Nissan Maxima SE 88         	861	49	1500	1049	Passen	passive belts  	4    	88	3210	med 	3	3
+Nissan   	NL Xev Pickup  	Nissan NL Xev Pickup     	Nissan NL Xev Pickup 88     	1242	53	609	198	Passen	manual belts   	-    	88	2631	pu  	7	1
+Nissan   	Pickup         	Nissan Pickup            	Nissan Pickup 87            	1244	45	531	617	Passen	manual belts   	-    	87	2714	pu  	7	1
+Nissan   	Pickup         	Nissan Pickup            	Nissan Pickup 89            	965	35	 	332	Passen	manual belts   	-    	89	2670	pu  	7	1
+Nissan   	Pulsar Nx      	Nissan Pulsar Nx         	Nissan Pulsar Nx 88         	430	31	122	1742	Passen	manual belts   	2    	88	2480	lt  	2	1
+Nissan   	Sentra         	Nissan Sentra            	Nissan Sentra 87            	799	 	615	415	Passen	manual belts   	4    	87	2296	lt  	2	1
+Nissan   	Sentra         	Nissan Sentra            	Nissan Sentra 88            	526	42	686	853	Passen	manual belts   	4    	88	2328	lt  	2	1
+Nissan   	Sentra         	Nissan Sentra            	Nissan Sentra 91            	681	45	1210	 	Passen	Motorized belts	2    	91	2420	lt  	2	2
+Nissan   	Stanza         	Nissan Stanza            	Nissan Stanza 90            	629	47	1205	744	Passen	Motorized belts	4    	90	2790	comp	1	2
+Nissan   	Stanza         	Nissan Stanza            	Nissan Stanza 91            	 	 	971	558	Passen	Motorized belts	4    	91	2740	comp	1	2
+Nissan   	Van Xe         	Nissan Van Xe            	Nissan Van Xe 88            	597	36	1708	1331	Passen	manual belts   	-    	88	3560	van 	6	1
+Oldsmobil	Calais         	Oldsmobile Calais        	Oldsmobile Calais 87        	328	40	1737	555	Passen	passive belts  	4    	87	2650	comp	1	3
+Oldsmobil	Delta 88       	Oldsmobile Delta 88      	Oldsmobile Delta 88 88      	539	38	2119	593	Passen	d airbag       	4    	88	3460	med 	3	4
+Peugeot  	505S           	Peugeot 505S             	Peugeot 505S 89             	2192	77	839	554	Passen	Motorized belts	4    	89	3010	med 	3	2
+Peugeot  	505            	Peugeot 505              	Peugeot 505 87              	1786	50	546	176	Passen	manual belts   	4    	87	2900	comp	1	1
+Peugeot  	505 GLS        	Peugeot 505 GLS          	Peugeot 505 GLS 88          	157	45	930	328	Passen	passive belts  	4    	88	3070	med 	3	3
+Plymouth 	Acclaim        	Plymouth Acclaim         	Plymouth Acclaim 89         	810	50	1552	873	Passen	manual belts   	4    	89	2820	comp	1	1
+Plymouth 	Acclaim        	Plymouth Acclaim         	Plymouth Acclaim 91         	446	43	891	1117	Passen	d airbag       	4    	91	2860	comp	1	4
+Plymouth 	Sundance       	Plymouth Sundance        	Plymouth Sundance 87        	 	41	832	540	Passen	manual belts   	4    	87	2580	comp	1	1
+Plymouth 	Voyager        	Plymouth Voyager         	Plymouth Voyager 87         	501	47	1595	275	Passen	manual belts   	-    	87	3040	van 	6	1
+Pontiac  	Grand Am       	Pontiac Grand Am         	Pontiac Grand Am 87         	601	41	1848	529	Passen	passive belts  	2    	87	2530	comp	1	3
+Pontiac  	Le Mans        	Pontiac Le Mans          	Pontiac Le Mans 88          	897	44	792	389	Passen	manual belts   	2    	88	2200	lt  	2	1
+Pontiac  	Sunbird        	Pontiac Sunbird          	Pontiac Sunbird 87          	404	37	1079	211	Passen	manual belts   	4    	87	2415	lt  	2	1
+Pontiac  	Trans Sport    	Pontiac Trans Sport      	Pontiac Trans Sport 90      	595	37	253	287	Passen	manual belts   	-    	90	3740	van 	6	1
+Renault  	Medallion      	Renault Medallion        	Renault Medallion 88        	873	38	617	1193	Passen	manual belts   	4    	88	2660	comp	1	1
+Saab     	900S           	Saab 900S                	Saab 900S 88                	1250	35	1395	1535	Passen	passive belts  	2    	88	2840	comp	1	3
+Saab     	9000           	Saab 9000                	Saab 9000 87                	440	35	346	638	Passen	manual belts   	4    	87	2990	comp	1	1
+Saturn   	SL2            	Saturn SL2               	Saturn SL2 91               	1018	46	1326	974	Passen	Motorized belts	4    	91	2453	lt  	2	2
+Subaru   	GL             	Subaru GL                	Subaru GL 87                	884	44	694	309	Passen	manual belts   	4    	87	2254	lt  	2	1
+Subaru   	Justy DL       	Subaru Justy DL          	Subaru Justy DL 87          	547	38	1256	426	Passen	manual belts   	2    	87	1660	mini	5	1
+Subaru   	Legacy         	Subaru Legacy            	Subaru Legacy 90            	675	44	1899	1121	Passen	Motorized belts	4    	90	2640	comp	1	2
+Suzuki   	Sidekick 4x4   	Suzuki Sidekick 4x4      	Suzuki Sidekick 4x4 89      	1763	70	1860	2259	Passen	manual belts   	2    	89	2311	mpv 	8	1
+Suzuki   	Sidekick 4x4   	Suzuki Sidekick 4x4      	Suzuki Sidekick 4x4 91      	2017	55	1283	1252	Passen	manual belts   	2    	91	2643	mpv 	8	1
+Toyota   	4-Runner 4x4   	Toyota 4-Runner 4x4      	Toyota 4-Runner 4x4 90      	1133	47	1429	320	Passen	manual belts   	4    	90	3860	mpv 	8	1
+Toyota   	Camry          	Toyota Camry             	Toyota Camry 87             	973	46	1200	1167	Passen	passive belts  	4    	87	2780	comp	1	3
+Toyota   	Celica         	Toyota Celica            	Toyota Celica 90            	685	37	1190	609	Passen	d airbag       	2    	90	2460	lt  	2	4
+Toyota   	Corolla Fx     	Toyota Corolla Fx        	Toyota Corolla Fx 88        	397	40	1162	393	Passen	manual belts   	2    	88	2320	lt  	2	1
+Toyota   	Corolla        	Toyota Corolla           	Toyota Corolla 89           	546	45	894	681	Passen	manual belts   	4    	89	2370	lt  	2	1
+Toyota   	Corolla        	Toyota Corolla           	Toyota Corolla 91           	613	 	917	1469	Passen	passive belts  	4    	91	2405	lt  	2	3
+Toyota   	Cressida       	Toyota Cressida          	Toyota Cressida 89          	544	51	1554	1107	Passen	Motorized belts	4    	89	3450	med 	3	2
+Toyota   	Pickup         	Toyota Pickup            	Toyota Pickup 87            	699	39	500	532	Passen	manual belts   	-    	87	2508	pu  	7	1
+Toyota   	Pickup         	Toyota Pickup            	Toyota Pickup 89            	883	46	614	493	Passen	manual belts   	-    	89	2543	pu  	7	1
+Toyota   	Pickup 4x4     	Toyota Pickup 4x4        	Toyota Pickup 4x4 91        	808	50	 	781	Passen	manual belts   	-    	91	3284	pu  	7	1
+Toyota   	Previa         	Toyota Previa            	Toyota Previa 91            	790	47	322	560	Passen	manual belts   	-    	91	3642	van 	6	1
+Toyota   	Tercel         	Toyota Tercel            	Toyota Tercel 88            	398	42	572	261	Passen	manual belts   	2    	88	2100	lt  	2	1
+Toyota   	Tercel         	Toyota Tercel            	Toyota Tercel 91            	729	51	1325	949	Passen	passive belts  	4    	91	2120	lt  	2	3
+Toyota   	Van            	Toyota Van               	Toyota Van 89               	530	54	2741	847	Passen	manual belts   	-    	89	3277	van 	6	1
+Volkswage	Fox            	Volkswagen Fox           	Volkswagen Fox 87           	2140	52	723	450	Passen	manual belts   	2    	87	2140	lt  	2	1
+Volkswage	Fox            	Volkswagen Fox           	Volkswagen Fox 88           	1424	44	 	478	Passen	manual belts   	2    	88	2200	lt  	2	1
+Volkswage	Fox            	Volkswagen Fox           	Volkswagen Fox 89           	818	58	738	508	Passen	manual belts   	2    	89	2150	lt  	2	1
+Volkswage	Passat         	Volkswagen Passat        	Volkswagen Passat 90        	604	46	1154	2474	Passen	Motorized belts	4    	90	2990	comp	1	2
+Volkswage	Vanagon GL     	Volkswagen Vanagon GL    	Volkswagen Vanagon GL 88    	899	48	1963	1014	Passen	manual belts   	-    	88	3520	van 	6	1
+Volvo    	740 GLE        	Volvo 740 GLE            	Volvo 740 GLE 88            	445	42	1793	634	Passen	d airbag       	4    	88	3010	med 	3	4
+Yugo     	GV             	Yugo GV                  	Yugo GV 87                  	379	41	585	172	Passen	manual belts   	2    	87	1850	mini	5	1
