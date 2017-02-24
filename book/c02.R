@@ -1,14 +1,22 @@
 # Chap-2 : Data Pre- Processing
 
 # Read data sets
-cars = read.csv(file="E:/dataSets/DM/cars.txt", stringsAsFactors = F)
-cars2 = read.csv(file="E:/dataSets/DM/cars2.txt", stringsAsFactors = F)
+#cars = read.csv(file="E:/dataSets/DM/cars.txt", stringsAsFactors = F)
+#cars2 = read.csv(file="E:/dataSets/DM/cars2.txt", stringsAsFactors = F)
+
+cars = read.csv(file="data/cars.txt", stringsAsFactors = F) # Linux
+cars2 = read.csv(file="data/cars2.txt", stringsAsFactors = F) # Linux
+
+# View its structure
+str(cars)
+str(cars2)
 
 # Missing data
 str(cars)
 cars.4var = cars[,c(1,3,4,8)]
 head(cars.4var)
 
+# Make Certain Entries of NA in the data set
 cars.4var[2,2] = cars.4var[4,4] = NA
 head(cars.4var)
 
@@ -25,11 +33,16 @@ our_table = table(cars.4var$brand)
 our_table
 names(our_table) [ our_table ==  max(our_table)]
 our_mode = names(our_table) [ our_table ==  max(our_table)]
-cars.4var[4,4] = our_mode
+   #names(sort(-table(cars.4var$brand)))[1]  # another method
+   # Mode of Character Field
+   #library(modeest)
+   #mlv(cars.4var$mpg, method = "mfv") This is for Numeric Field only
 
+cars.4var[4,4] = our_mode
 head(cars.4var)
 
-# Generate Random Observations
+
+# Generate Random Observations - Update it into Brand Missing Values
 obs_brand = sample(na.omit(cars.4var$brand),1)
 obs_brand
 
@@ -47,6 +60,7 @@ hist(cars2$weightlbs,breaks=30,xlim=c(0,5000),col='blue', border='black', ylim=c
 box(which='plot',lty='solid',col='black') # box around the plot : box()
 
 # Create a Scatter Plot
+plot.new()
 plot(cars2$weightlbs, cars2$mpg, xlim=c(0,5000),ylim=c(0,600),xlab='Weight',ylab='MPG', main='Scatter Plot MPG vs Wt', type='p',pch=16,col='red') 
 
 # Descriptive Statistics
@@ -61,9 +75,14 @@ summary(cars$weightlbs) #Min, Q1, Median, Mean, Q3, Max
 # min - max normalisations
 summary(cars$weightlbs)
 mi = min(cars$weightlbs)
+ma = max(cars$weightlbs)
 paste('Min ',mi, 'Max' ,ma)
 minmax.weight = (cars$weightlbs - mi)/(ma - mi)
+cars$weightlbs
 minmax.weight
+range(cars$weightlbs)
+range(minmax.weight)
+
 
 # Decimal Scaling  = value/ max value in 100x form
 max(abs(cars$weightlbs)) # 4 digits
@@ -72,7 +91,9 @@ d.weight # scaled values between 0 and max values in 1000x form
 
 # Z Score standardisation  Z = (x - mean)/ sd
 m = mean(cars$weightlbs)
+m
 s = sd(cars$weightlbs)
+s
 z.weight = (cars$weightlbs-m)/s
 z.weight
 
