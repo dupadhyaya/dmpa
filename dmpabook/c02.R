@@ -113,14 +113,23 @@ box(which='plot',lty='solid', col='red') # box around the plot box()
 (3*(mean(cars$weightlbs) - median(cars$weightlbs)))/ (sd(cars$weightlbs))  # 0.6
 (3*(mean(z.weight) - median(z.weight)))/ (sd(z.weight))  # 0.6
 
+# Reduce Skewness for Analysis : Transform by using Square Root and Log
 # Transformation for Normality
 sqrt.weight = sqrt(cars$weight) # square root
-sqrt.weight_skew = (3*(mean(sqrt.weight) - median(sqrt.weight)))/ (sd(sqrt.weight))  # 0.403 less
+hist(sqrt.weight) # less skewed
+sqrt.weight_skew = (3*(mean(sqrt.weight) - median(sqrt.weight)))/ (sd(sqrt.weight))  # 0.403 less/ reduced
 sqrt.weight_skew
+library(moments)
+#?skewness
+#skewness(sqrt.weight)
 
 ln.weight = log(cars$weight) # natural log
 ln.weight_skew= (3*(mean(ln.weight) - median(ln.weight)))/ (sd(ln.weight))  # 0.196 lesser
 ln.weight_skew
+hist(ln.weight)
+fivenum(ln.weight)
+summary(ln.weight)
+#skewness(ln.weight)
 
 invsqrt.weight = 1/sqrt(cars$weight) # Inverse Square Root
 invsqrt.weight_skew= (3*(mean(invsqrt.weight) - median(invsqrt.weight)))/ (sd(invsqrt.weight))  

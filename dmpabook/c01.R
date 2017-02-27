@@ -2,9 +2,12 @@
 # data = read.csv("E:\dataSets\DM\..", stringsAsFactors = False)
 
 # Open Data set and display data
-cars = read.csv(file="E:/dataSets/DM/cars.txt", stringsAsFactors = F)
-head(cars)
+#cars = read.csv(file="E:/dataSets/DM/cars.txt", stringsAsFactors = F) # Win
+
+cars = read.csv(file="data/cars.txt", stringsAsFactors = F) # Linux
 str(cars)
+
+head(cars)
 names(cars)
 cars$weight
 
